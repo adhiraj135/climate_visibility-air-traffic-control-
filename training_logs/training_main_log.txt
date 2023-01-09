@@ -1,0 +1,26 @@
+2023-01-05/20:57:30		validation started!
+2023-01-05/20:57:31		filename validated successfully!
+2023-01-05/20:57:33		column len validated successfully!
+2023-01-05/20:57:33		empty columns validated successfully!
+2023-01-05/20:57:33		validation completed!
+2023-01-05/20:57:33		db operation started!
+2023-01-05/20:57:33		table creation started!
+2023-01-05/20:57:43		table created successfully!
+2023-01-05/20:57:43		data insertion into table started!
+2023-01-05/23:42:19		data inserted inside table successfully!
+2023-01-05/23:42:19		data insertion in a input csv file started!
+2023-01-05/23:42:37		data inserted in a input csv file successfully!
+2023-01-05/23:42:37		validation ended
+2023-01-06/03:11:13		validation started!
+2023-01-06/03:11:14		filename validated successfully!
+2023-01-06/03:11:15		column len validated successfully!
+2023-01-06/03:11:15		empty columns validated successfully!
+2023-01-06/03:11:15		validation completed!
+2023-01-06/03:11:15		db operation started!
+2023-01-06/03:11:15		table creation started!
+2023-01-06/03:11:16		table created successfully!
+2023-01-06/03:11:16		data insertion into table started!
+2023-01-06/03:11:16		data inserted inside table successfully!
+2023-01-06/03:11:16		data insertion in a input csv file started!
+2023-01-06/03:11:20		data inserted in a input csv file successfully!
+2023-01-06/03:11:20		validation ended

@@ -1,0 +1,86 @@
+2022-12-25/23:37:36		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-25/23:42:14		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-25/23:43:20		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-25/23:45:04		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-25/23:46:34		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/00:34:28		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/01:04:19		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/01:05:42		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/01:10:46		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/01:16:02		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/01:18:06		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/01:19:49		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/01:25:33		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/01:28:25		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/01:43:40		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/01:48:17		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/01:48:54		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/01:50:12		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/01:57:29		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/01:59:36		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/02:10:34		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/02:11:30		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/02:14:11		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/02:15:11		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/02:36:49		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/02:44:52		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/02:47:57		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/02:48:22		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/20:53:52		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-26/23:41:09		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-27/00:42:46		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-27/00:43:47		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-27/02:53:09		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-27/21:16:12		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-27/23:43:19		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2022-12-28/00:42:42		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2023-01-01/21:47:06		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2023-01-02/00:22:46		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2023-01-02/00:26:05		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2023-01-02/00:33:04		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2023-01-04/23:44:16		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2023-01-05/20:57:30		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+
+2023-01-06/03:11:13		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 11
+

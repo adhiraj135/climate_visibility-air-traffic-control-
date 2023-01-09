@@ -1,0 +1,13 @@
+2023-01-03/21:43:27		data sucessfully inserted in table
+2023-01-03/22:04:28		data sucessfully inserted in table
+2023-01-03/22:39:22		data sucessfully inserted in table
+2023-01-03/23:38:53		data sucessfully inserted in table
+2023-01-04/00:28:55		data sucessfully inserted in table
+2023-01-04/22:41:08		data sucessfully inserted in table
+2023-01-06/02:59:46		data sucessfully inserted in table
+2023-01-06/03:09:27		data already present in table,no need to insert
+2023-01-06/22:31:37		data already present in table,no need to insert
+2023-01-06/22:35:28		data already present in table,no need to insert
+2023-01-06/23:36:46		data already present in table,no need to insert
+2023-01-06/23:47:03		data already present in table,no need to insert
+2023-01-06/23:48:06		data already present in table,no need to insert

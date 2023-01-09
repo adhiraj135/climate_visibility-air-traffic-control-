@@ -1,0 +1,33 @@
+2022-12-25/23:46:37		table successfully created
+2022-12-26/00:34:32		table successfully created
+2022-12-26/01:04:20		error in table creation : 1049 (42000): Unknown database 'training'
+2022-12-26/01:05:43		error in table creation : 1049 (42000): Unknown database 'training'
+2022-12-26/01:10:48		error in table creation : 1046 (3D000): No database selected
+2022-12-26/01:16:05		error in table creation : 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'exits training' at line 1
+2022-12-26/01:18:07		error in table creation : 1007 (HY000): Can't create database 'training'; database exists
+2022-12-26/01:19:51		error in table creation : 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+2022-12-26/01:25:34		error in table creation : 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+2022-12-26/01:28:26		error in table creation : 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ')' at line 1
+2022-12-26/01:43:44		error in table creation : 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2022-12-26/01:48:18		error in table creation : 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '' at line 1
+2022-12-26/01:48:57		error in table creation : 1050 (42S01): Table 'good_data' already exists
+2022-12-26/01:50:17		error in table creation : 1050 (42S01): Table 'good_data' already exists
+2022-12-26/01:57:31		error in table creation : 1146 (42S02): Table 'training.sqlite_master' doesn't exist
+2022-12-26/01:59:37		error in table creation : 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'sql WHERE type = 'table'AND name = 'good_data'' at line 1
+2022-12-26/02:10:35		error in table creation : 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near ''good_data' at line 1
+2022-12-26/02:11:31		error in table creation : 1054 (42S22): Unknown column 'TABLES' in 'field list'
+2022-12-26/02:14:12		error in table creation : 1064 (42000): You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'EXITS good_data' at line 1
+2022-12-26/02:15:15		error in table creation : 1050 (42S01): Table 'good_data' already exists
+2022-12-26/02:45:02		error in table creation : maximum recursion depth exceeded while calling a Python object
+2022-12-26/02:47:58		error in table creation : function missing required argument 'database' (pos 1)
+2022-12-26/02:48:29		table successfully created
+2022-12-26/20:54:03		table successfully created
+2022-12-27/00:42:47		error in table creation : 1050 (42S01): Table 'good_data' already exists
+2022-12-27/00:43:55		table successfully created
+2022-12-27/02:53:21		table successfully created
+2022-12-27/21:16:26		table successfully created
+2023-01-01/21:47:14		table successfully created
+2023-01-02/00:33:12		table successfully created
+2023-01-04/23:44:25		table already exists now data from table will be transfered to csv file
+2023-01-05/20:57:43		table successfully created
+2023-01-06/03:11:16		table already exists now data from table will be transfered to csv file

@@ -1,0 +1,134 @@
+2022-12-25/23:37:36		existing good and bad training dir created
+2022-12-25/23:42:14		existing bad training dir removed
+2022-12-25/23:42:14		existing good training dir removed
+2022-12-25/23:42:14		existing good and bad training dir created
+2022-12-25/23:43:20		existing bad training dir removed
+2022-12-25/23:43:20		existing good training dir removed
+2022-12-25/23:43:21		existing good and bad training dir created
+2022-12-25/23:45:04		existing bad training dir removed
+2022-12-25/23:45:04		existing good training dir removed
+2022-12-25/23:45:04		existing good and bad training dir created
+2022-12-25/23:46:34		existing bad training dir removed
+2022-12-25/23:46:34		existing good training dir removed
+2022-12-25/23:46:34		existing good and bad training dir created
+2022-12-25/23:46:35		database dir succesfully created
+2022-12-25/23:46:37		database dir succesfully created
+2022-12-26/00:34:28		existing bad training dir removed
+2022-12-26/00:34:28		existing good training dir removed
+2022-12-26/00:34:28		existing good and bad training dir created
+2022-12-26/00:34:30		database dir succesfully created
+2022-12-26/00:34:32		database dir succesfully created
+2022-12-26/01:04:19		existing bad training dir removed
+2022-12-26/01:04:19		existing good training dir removed
+2022-12-26/01:04:19		existing good and bad training dir created
+2022-12-26/01:05:42		existing bad training dir removed
+2022-12-26/01:05:42		existing good training dir removed
+2022-12-26/01:05:42		existing good and bad training dir created
+2022-12-26/01:10:46		existing bad training dir removed
+2022-12-26/01:10:46		existing good training dir removed
+2022-12-26/01:10:46		existing good and bad training dir created
+2022-12-26/01:16:02		existing bad training dir removed
+2022-12-26/01:16:03		existing good training dir removed
+2022-12-26/01:16:03		existing good and bad training dir created
+2022-12-26/01:18:06		existing bad training dir removed
+2022-12-26/01:18:06		existing good training dir removed
+2022-12-26/01:18:06		existing good and bad training dir created
+2022-12-26/01:19:49		existing bad training dir removed
+2022-12-26/01:19:49		existing good training dir removed
+2022-12-26/01:19:49		existing good and bad training dir created
+2022-12-26/01:25:33		existing bad training dir removed
+2022-12-26/01:25:33		existing good training dir removed
+2022-12-26/01:25:33		existing good and bad training dir created
+2022-12-26/01:28:25		existing bad training dir removed
+2022-12-26/01:28:25		existing good training dir removed
+2022-12-26/01:28:25		existing good and bad training dir created
+2022-12-26/01:43:40		existing bad training dir removed
+2022-12-26/01:43:41		existing good training dir removed
+2022-12-26/01:43:41		existing good and bad training dir created
+2022-12-26/01:48:17		existing bad training dir removed
+2022-12-26/01:48:17		existing good training dir removed
+2022-12-26/01:48:17		existing good and bad training dir created
+2022-12-26/01:48:54		existing bad training dir removed
+2022-12-26/01:48:54		existing good training dir removed
+2022-12-26/01:48:54		existing good and bad training dir created
+2022-12-26/01:50:12		existing bad training dir removed
+2022-12-26/01:50:12		existing good training dir removed
+2022-12-26/01:50:12		existing good and bad training dir created
+2022-12-26/01:57:29		existing bad training dir removed
+2022-12-26/01:57:29		existing good training dir removed
+2022-12-26/01:57:29		existing good and bad training dir created
+2022-12-26/01:59:36		existing bad training dir removed
+2022-12-26/01:59:36		existing good training dir removed
+2022-12-26/01:59:36		existing good and bad training dir created
+2022-12-26/02:10:34		existing bad training dir removed
+2022-12-26/02:10:34		existing good training dir removed
+2022-12-26/02:10:34		existing good and bad training dir created
+2022-12-26/02:11:30		existing bad training dir removed
+2022-12-26/02:11:30		existing good training dir removed
+2022-12-26/02:11:30		existing good and bad training dir created
+2022-12-26/02:14:11		existing bad training dir removed
+2022-12-26/02:14:11		existing good training dir removed
+2022-12-26/02:14:11		existing good and bad training dir created
+2022-12-26/02:15:11		existing bad training dir removed
+2022-12-26/02:15:11		existing good training dir removed
+2022-12-26/02:15:11		existing good and bad training dir created
+2022-12-26/02:36:49		existing bad training dir removed
+2022-12-26/02:36:49		existing good training dir removed
+2022-12-26/02:36:49		existing good and bad training dir created
+2022-12-26/02:44:52		existing bad training dir removed
+2022-12-26/02:44:52		existing good training dir removed
+2022-12-26/02:44:52		existing good and bad training dir created
+2022-12-26/02:47:57		existing bad training dir removed
+2022-12-26/02:47:57		existing good training dir removed
+2022-12-26/02:47:57		existing good and bad training dir created
+2022-12-26/02:47:58		database dir succesfully created
+2022-12-26/02:48:22		existing bad training dir removed
+2022-12-26/02:48:22		existing good training dir removed
+2022-12-26/02:48:22		existing good and bad training dir created
+2022-12-26/02:48:23		database dir succesfully created
+2022-12-26/02:48:29		database dir succesfully created
+2022-12-26/20:53:52		existing bad training dir removed
+2022-12-26/20:53:52		existing good training dir removed
+2022-12-26/20:53:52		existing good and bad training dir created
+2022-12-26/20:53:59		database dir succesfully created
+2022-12-26/20:54:03		database dir succesfully created
+2022-12-26/23:41:09		existing bad training dir removed
+2022-12-26/23:41:09		existing good training dir removed
+2022-12-26/23:41:10		existing good and bad training dir created
+2022-12-27/00:42:46		existing bad training dir removed
+2022-12-27/00:42:46		existing good training dir removed
+2022-12-27/00:42:46		existing good and bad training dir created
+2022-12-27/00:43:47		existing bad training dir removed
+2022-12-27/00:43:47		existing good training dir removed
+2022-12-27/00:43:47		existing good and bad training dir created
+2022-12-27/02:53:09		existing bad training dir removed
+2022-12-27/02:53:09		existing good training dir removed
+2022-12-27/02:53:09		existing good and bad training dir created
+2022-12-27/21:16:12		existing bad training dir removed
+2022-12-27/21:16:12		existing good training dir removed
+2022-12-27/21:16:12		existing good and bad training dir created
+2022-12-27/23:43:19		existing bad training dir removed
+2022-12-27/23:43:19		existing good training dir removed
+2022-12-27/23:43:19		existing good and bad training dir created
+2022-12-28/00:42:42		existing bad training dir removed
+2022-12-28/00:42:42		existing good training dir removed
+2022-12-28/00:42:42		existing good and bad training dir created
+2023-01-01/21:47:06		existing bad training dir removed
+2023-01-01/21:47:06		existing good training dir removed
+2023-01-01/21:47:06		existing good and bad training dir created
+2023-01-02/00:22:46		existing bad training dir removed
+2023-01-02/00:22:46		existing good training dir removed
+2023-01-02/00:22:46		existing good and bad training dir created
+2023-01-02/00:26:05		existing bad training dir removed
+2023-01-02/00:26:06		existing good training dir removed
+2023-01-02/00:26:06		existing good and bad training dir created
+2023-01-02/00:33:04		existing bad training dir removed
+2023-01-02/00:33:04		existing good training dir removed
+2023-01-02/00:33:04		existing good and bad training dir created
+2023-01-04/23:44:17		existing good and bad training dir created
+2023-01-05/20:57:30		existing bad training dir removed
+2023-01-05/20:57:30		existing good training dir removed
+2023-01-05/20:57:30		existing good and bad training dir created
+2023-01-06/03:11:13		existing bad training dir removed
+2023-01-06/03:11:13		existing good training dir removed
+2023-01-06/03:11:13		existing good and bad training dir created

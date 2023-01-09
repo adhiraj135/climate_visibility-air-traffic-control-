@@ -1,0 +1,13 @@
+2023-01-03/21:43:35		error in insertion in csv : Cannot save file into a non-existent directory: 'predictionfilefromDB'
+2023-01-03/22:04:29		data of table sucessfully inserted in csv file inputfile.csv
+2023-01-03/22:39:23		data of table sucessfully inserted in csv file inputfile.csv
+2023-01-03/23:39:05		data of table sucessfully inserted in csv file inputfile.csv
+2023-01-04/00:28:57		data of table sucessfully inserted in csv file inputfile.csv
+2023-01-04/22:41:10		data of table sucessfully inserted in csv file inputfile.csv
+2023-01-06/02:59:47		data of table sucessfully inserted in csv file inputfile.csv
+2023-01-06/03:09:28		data of table sucessfully inserted in csv file inputfile.csv
+2023-01-06/22:31:40		data of table sucessfully inserted in csv file inputfile.csv
+2023-01-06/22:35:29		data of table sucessfully inserted in csv file inputfile.csv
+2023-01-06/23:36:47		data of table sucessfully inserted in csv file inputfile.csv
+2023-01-06/23:47:04		data of table sucessfully inserted in csv file inputfile.csv
+2023-01-06/23:48:07		data of table sucessfully inserted in csv file inputfile.csv
