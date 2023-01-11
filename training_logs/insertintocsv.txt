@@ -4,3 +4,7 @@
 2023-01-02/02:34:08		data of table sucessfully inserted in csv file input_file.csv
 2023-01-05/23:42:37		data of table sucessfully inserted in csv file input_file.csv
 2023-01-06/03:11:20		data of table sucessfully inserted in csv file input_file.csv
+2023-01-10/21:20:05		data of table sucessfully inserted in csv file input_file.csv
+2023-01-10/21:54:22		data of table sucessfully inserted in csv file input_file.csv
+2023-01-10/21:59:35		data of table sucessfully inserted in csv file input_file.csv
+2023-01-10/22:02:01		data of table sucessfully inserted in csv file input_file.csv

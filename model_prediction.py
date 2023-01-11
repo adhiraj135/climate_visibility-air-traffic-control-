@@ -1,3 +1,5 @@
+import os.path
+
 from prediction_data_ingestion.loader import data_getter
 from data_preprocessing.preprocessing import preprocessing
 from file_operation.file_method import fileoperation
@@ -46,6 +48,8 @@ class prediction_model:
 
             result=pd.DataFrame(result,columns=['prediction'])
             path="prediction_output_file/prediction.csv"
+            if not os.path.isdir('prediction_output_file/'):
+                os.makedirs('prediction_output_file/')
             result.to_csv("prediction_output_file/prediction.csv",header=True)
             self.logger_object.log(self.file_object, "predict from model ended!!,file created at %s"%path)
             self.file_object.close()

@@ -772,3 +772,79 @@
 2023-01-06/03:11:14		valid file name !! batch file transferred to good dir :: visibility_08012019_120021.csv
 2023-01-06/03:11:14		valid file name !! batch file transferred to good dir :: visibility_08012019_120066.csv
 2023-01-06/03:11:14		file name succesfully validated and batch data transferred to good or bad dir respectively
+2023-01-10/21:14:48		error in validating filename : listdir: path should be string, bytes, os.PathLike or None, not ImmutableMultiDict
+2023-01-10/21:15:13		error in validating filename : listdir: path should be string, bytes, os.PathLike or None, not ImmutableMultiDict
+2023-01-10/21:19:50		file name validation started
+2023-01-10/21:19:51		Invalid file name !! batch file transferred to bad dir :: highvisibility_08012017_120019.csv
+2023-01-10/21:19:51		valid file name !! batch file transferred to good dir :: visibility_08012008_120010.csv
+2023-01-10/21:19:51		valid file name !! batch file transferred to good dir :: visibility_08012009_120011.csv
+2023-01-10/21:19:51		valid file name !! batch file transferred to good dir :: visibility_08012010_120012.csv
+2023-01-10/21:19:51		valid file name !! batch file transferred to good dir :: visibility_08012011_120013.csv
+2023-01-10/21:19:51		valid file name !! batch file transferred to good dir :: visibility_08012012_120014.csv
+2023-01-10/21:19:51		valid file name !! batch file transferred to good dir :: visibility_08012013_120015.csv
+2023-01-10/21:19:51		valid file name !! batch file transferred to good dir :: visibility_08012014_120016.csv
+2023-01-10/21:19:51		valid file name !! batch file transferred to good dir :: visibility_08012015_120017.csv
+2023-01-10/21:19:51		Invalid file name !! batch file transferred to bad dir :: visibility_08012016_1200.csv
+2023-01-10/21:19:51		valid file name !! batch file transferred to good dir :: visibility_08012016_120018.csv
+2023-01-10/21:19:52		valid file name !! batch file transferred to good dir :: visibility_08012017_120019.csv
+2023-01-10/21:19:52		valid file name !! batch file transferred to good dir :: visibility_08012018_120020.csv
+2023-01-10/21:19:52		valid file name !! batch file transferred to good dir :: visibility_08012018_120065.csv
+2023-01-10/21:19:52		valid file name !! batch file transferred to good dir :: visibility_08012019_120021.csv
+2023-01-10/21:19:52		valid file name !! batch file transferred to good dir :: visibility_08012019_120066.csv
+2023-01-10/21:19:52		file name succesfully validated and batch data transferred to good or bad dir respectively
+2023-01-10/21:27:13		error in validating filename : [WinError 3] The system cannot find the path specified: "ImmutableMultiDict([('Training File Path', 'Training_Batch_Files')])"
+2023-01-10/21:27:44		error in validating filename : [WinError 3] The system cannot find the path specified: "ImmutableMultiDict([('Training File Path', 'Training_Batch_Files/')])"
+2023-01-10/21:54:16		file name validation started
+2023-01-10/21:54:16		Invalid file name !! batch file transferred to bad dir :: highvisibility_08012017_120019.csv
+2023-01-10/21:54:16		valid file name !! batch file transferred to good dir :: visibility_08012008_120010.csv
+2023-01-10/21:54:16		valid file name !! batch file transferred to good dir :: visibility_08012009_120011.csv
+2023-01-10/21:54:16		valid file name !! batch file transferred to good dir :: visibility_08012010_120012.csv
+2023-01-10/21:54:16		valid file name !! batch file transferred to good dir :: visibility_08012011_120013.csv
+2023-01-10/21:54:16		valid file name !! batch file transferred to good dir :: visibility_08012012_120014.csv
+2023-01-10/21:54:16		valid file name !! batch file transferred to good dir :: visibility_08012013_120015.csv
+2023-01-10/21:54:16		valid file name !! batch file transferred to good dir :: visibility_08012014_120016.csv
+2023-01-10/21:54:16		valid file name !! batch file transferred to good dir :: visibility_08012015_120017.csv
+2023-01-10/21:54:16		Invalid file name !! batch file transferred to bad dir :: visibility_08012016_1200.csv
+2023-01-10/21:54:16		valid file name !! batch file transferred to good dir :: visibility_08012016_120018.csv
+2023-01-10/21:54:16		valid file name !! batch file transferred to good dir :: visibility_08012017_120019.csv
+2023-01-10/21:54:16		valid file name !! batch file transferred to good dir :: visibility_08012018_120020.csv
+2023-01-10/21:54:16		valid file name !! batch file transferred to good dir :: visibility_08012018_120065.csv
+2023-01-10/21:54:16		valid file name !! batch file transferred to good dir :: visibility_08012019_120021.csv
+2023-01-10/21:54:16		valid file name !! batch file transferred to good dir :: visibility_08012019_120066.csv
+2023-01-10/21:54:16		file name succesfully validated and batch data transferred to good or bad dir respectively
+2023-01-10/21:59:30		file name validation started
+2023-01-10/21:59:30		Invalid file name !! batch file transferred to bad dir :: highvisibility_08012017_120019.csv
+2023-01-10/21:59:30		valid file name !! batch file transferred to good dir :: visibility_08012008_120010.csv
+2023-01-10/21:59:30		valid file name !! batch file transferred to good dir :: visibility_08012009_120011.csv
+2023-01-10/21:59:30		valid file name !! batch file transferred to good dir :: visibility_08012010_120012.csv
+2023-01-10/21:59:30		valid file name !! batch file transferred to good dir :: visibility_08012011_120013.csv
+2023-01-10/21:59:30		valid file name !! batch file transferred to good dir :: visibility_08012012_120014.csv
+2023-01-10/21:59:30		valid file name !! batch file transferred to good dir :: visibility_08012013_120015.csv
+2023-01-10/21:59:30		valid file name !! batch file transferred to good dir :: visibility_08012014_120016.csv
+2023-01-10/21:59:30		valid file name !! batch file transferred to good dir :: visibility_08012015_120017.csv
+2023-01-10/21:59:30		Invalid file name !! batch file transferred to bad dir :: visibility_08012016_1200.csv
+2023-01-10/21:59:30		valid file name !! batch file transferred to good dir :: visibility_08012016_120018.csv
+2023-01-10/21:59:30		valid file name !! batch file transferred to good dir :: visibility_08012017_120019.csv
+2023-01-10/21:59:30		valid file name !! batch file transferred to good dir :: visibility_08012018_120020.csv
+2023-01-10/21:59:30		valid file name !! batch file transferred to good dir :: visibility_08012018_120065.csv
+2023-01-10/21:59:30		valid file name !! batch file transferred to good dir :: visibility_08012019_120021.csv
+2023-01-10/21:59:30		valid file name !! batch file transferred to good dir :: visibility_08012019_120066.csv
+2023-01-10/21:59:30		file name succesfully validated and batch data transferred to good or bad dir respectively
+2023-01-10/22:01:53		file name validation started
+2023-01-10/22:01:53		Invalid file name !! batch file transferred to bad dir :: highvisibility_08012017_120019.csv
+2023-01-10/22:01:53		valid file name !! batch file transferred to good dir :: visibility_08012008_120010.csv
+2023-01-10/22:01:53		valid file name !! batch file transferred to good dir :: visibility_08012009_120011.csv
+2023-01-10/22:01:53		valid file name !! batch file transferred to good dir :: visibility_08012010_120012.csv
+2023-01-10/22:01:53		valid file name !! batch file transferred to good dir :: visibility_08012011_120013.csv
+2023-01-10/22:01:53		valid file name !! batch file transferred to good dir :: visibility_08012012_120014.csv
+2023-01-10/22:01:53		valid file name !! batch file transferred to good dir :: visibility_08012013_120015.csv
+2023-01-10/22:01:53		valid file name !! batch file transferred to good dir :: visibility_08012014_120016.csv
+2023-01-10/22:01:53		valid file name !! batch file transferred to good dir :: visibility_08012015_120017.csv
+2023-01-10/22:01:53		Invalid file name !! batch file transferred to bad dir :: visibility_08012016_1200.csv
+2023-01-10/22:01:53		valid file name !! batch file transferred to good dir :: visibility_08012016_120018.csv
+2023-01-10/22:01:53		valid file name !! batch file transferred to good dir :: visibility_08012017_120019.csv
+2023-01-10/22:01:53		valid file name !! batch file transferred to good dir :: visibility_08012018_120020.csv
+2023-01-10/22:01:53		valid file name !! batch file transferred to good dir :: visibility_08012018_120065.csv
+2023-01-10/22:01:53		valid file name !! batch file transferred to good dir :: visibility_08012019_120021.csv
+2023-01-10/22:01:53		valid file name !! batch file transferred to good dir :: visibility_08012019_120066.csv
+2023-01-10/22:01:53		file name succesfully validated and batch data transferred to good or bad dir respectively

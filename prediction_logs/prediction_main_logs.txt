@@ -233,3 +233,530 @@
 2023-01-06/23:48:06		insert table data into csv file started!
 2023-01-06/23:48:07		insert table data into csv file successful!
 2023-01-06/23:48:07		prediction validation  and transformation successfully ended!
+2023-01-09/22:26:35		prediction validation  and transformation started!!
+2023-01-09/22:26:35		file name validation started!!
+2023-01-09/22:26:36		filename validation ended!!
+2023-01-09/22:26:36		column number validation started!!
+2023-01-09/22:26:36		column number validation ended!!
+2023-01-09/22:26:36		empty columns validation started!!
+2023-01-09/22:26:36		empty columns validation ended!!
+2023-01-09/22:26:36		data transformation validation started!!
+2023-01-09/22:26:36		data transformation validation ended!!
+2023-01-09/22:26:36		database operation started!!
+2023-01-09/22:26:36		table creation started!!
+2023-01-09/22:26:44		table successfully created!!
+2023-01-09/22:26:44		insertion of data into table started!
+2023-01-09/22:26:46		insertion of data into table successful!
+2023-01-09/22:26:46		insert table data into csv file started!
+2023-01-09/22:26:47		insert table data into csv file successful!
+2023-01-09/22:26:47		prediction validation  and transformation successfully ended!
+2023-01-09/23:25:48		prediction validation  and transformation started!!
+2023-01-09/23:25:48		file name validation started!!
+2023-01-09/23:25:49		filename validation ended!!
+2023-01-09/23:25:49		column number validation started!!
+2023-01-09/23:25:50		column number validation ended!!
+2023-01-09/23:25:50		empty columns validation started!!
+2023-01-09/23:25:50		empty columns validation ended!!
+2023-01-09/23:25:50		data transformation validation started!!
+2023-01-09/23:25:50		data transformation validation ended!!
+2023-01-09/23:25:50		database operation started!!
+2023-01-09/23:25:50		table creation started!!
+2023-01-09/23:25:52		table successfully created!!
+2023-01-09/23:25:52		insertion of data into table started!
+2023-01-09/23:25:53		insertion of data into table successful!
+2023-01-09/23:25:53		insert table data into csv file started!
+2023-01-09/23:25:54		insert table data into csv file successful!
+2023-01-09/23:25:54		prediction validation  and transformation successfully ended!
+2023-01-09/23:32:43		prediction validation  and transformation started!!
+2023-01-09/23:32:43		file name validation started!!
+2023-01-09/23:32:43		filename validation ended!!
+2023-01-09/23:32:43		column number validation started!!
+2023-01-09/23:32:44		column number validation ended!!
+2023-01-09/23:32:44		empty columns validation started!!
+2023-01-09/23:32:44		empty columns validation ended!!
+2023-01-09/23:32:44		data transformation validation started!!
+2023-01-09/23:32:44		data transformation validation ended!!
+2023-01-09/23:32:44		database operation started!!
+2023-01-09/23:32:44		table creation started!!
+2023-01-09/23:32:44		table successfully created!!
+2023-01-09/23:32:44		insertion of data into table started!
+2023-01-09/23:32:44		insertion of data into table successful!
+2023-01-09/23:32:44		insert table data into csv file started!
+2023-01-09/23:32:45		insert table data into csv file successful!
+2023-01-09/23:32:45		prediction validation  and transformation successfully ended!
+2023-01-09/23:37:10		prediction validation  and transformation started!!
+2023-01-09/23:37:10		file name validation started!!
+2023-01-09/23:37:10		filename validation ended!!
+2023-01-09/23:37:10		column number validation started!!
+2023-01-09/23:37:10		column number validation ended!!
+2023-01-09/23:37:10		empty columns validation started!!
+2023-01-09/23:37:10		empty columns validation ended!!
+2023-01-09/23:37:10		data transformation validation started!!
+2023-01-09/23:37:10		data transformation validation ended!!
+2023-01-09/23:37:10		database operation started!!
+2023-01-09/23:37:10		table creation started!!
+2023-01-09/23:37:10		table successfully created!!
+2023-01-09/23:37:10		insertion of data into table started!
+2023-01-09/23:37:11		insertion of data into table successful!
+2023-01-09/23:37:11		insert table data into csv file started!
+2023-01-09/23:37:12		insert table data into csv file successful!
+2023-01-09/23:37:12		prediction validation  and transformation successfully ended!
+2023-01-09/23:41:19		prediction validation  and transformation started!!
+2023-01-09/23:41:19		file name validation started!!
+2023-01-09/23:41:19		filename validation ended!!
+2023-01-09/23:41:19		column number validation started!!
+2023-01-09/23:41:19		column number validation ended!!
+2023-01-09/23:41:19		empty columns validation started!!
+2023-01-09/23:41:19		empty columns validation ended!!
+2023-01-09/23:41:19		data transformation validation started!!
+2023-01-09/23:41:19		data transformation validation ended!!
+2023-01-09/23:41:19		database operation started!!
+2023-01-09/23:41:19		table creation started!!
+2023-01-09/23:41:20		table successfully created!!
+2023-01-09/23:41:20		insertion of data into table started!
+2023-01-09/23:41:20		insertion of data into table successful!
+2023-01-09/23:41:20		insert table data into csv file started!
+2023-01-09/23:41:21		insert table data into csv file successful!
+2023-01-09/23:41:21		prediction validation  and transformation successfully ended!
+2023-01-09/23:41:54		prediction validation  and transformation started!!
+2023-01-09/23:41:54		file name validation started!!
+2023-01-09/23:41:54		filename validation ended!!
+2023-01-09/23:41:54		column number validation started!!
+2023-01-09/23:41:54		column number validation ended!!
+2023-01-09/23:41:54		empty columns validation started!!
+2023-01-09/23:41:54		empty columns validation ended!!
+2023-01-09/23:41:54		data transformation validation started!!
+2023-01-09/23:41:54		data transformation validation ended!!
+2023-01-09/23:41:54		database operation started!!
+2023-01-09/23:41:54		table creation started!!
+2023-01-09/23:41:55		table successfully created!!
+2023-01-09/23:41:55		insertion of data into table started!
+2023-01-09/23:41:55		insertion of data into table successful!
+2023-01-09/23:41:55		insert table data into csv file started!
+2023-01-09/23:41:56		insert table data into csv file successful!
+2023-01-09/23:41:56		prediction validation  and transformation successfully ended!
+2023-01-09/23:46:52		prediction validation  and transformation started!!
+2023-01-09/23:46:52		file name validation started!!
+2023-01-09/23:46:52		filename validation ended!!
+2023-01-09/23:46:52		column number validation started!!
+2023-01-09/23:46:52		column number validation ended!!
+2023-01-09/23:46:52		empty columns validation started!!
+2023-01-09/23:46:52		empty columns validation ended!!
+2023-01-09/23:46:52		data transformation validation started!!
+2023-01-09/23:46:52		data transformation validation ended!!
+2023-01-09/23:46:52		database operation started!!
+2023-01-09/23:46:52		table creation started!!
+2023-01-09/23:46:52		table successfully created!!
+2023-01-09/23:46:52		insertion of data into table started!
+2023-01-09/23:46:53		insertion of data into table successful!
+2023-01-09/23:46:53		insert table data into csv file started!
+2023-01-09/23:46:53		insert table data into csv file successful!
+2023-01-09/23:46:53		prediction validation  and transformation successfully ended!
+2023-01-10/01:03:08		prediction validation  and transformation started!!
+2023-01-10/01:03:08		file name validation started!!
+2023-01-10/01:03:08		filename validation ended!!
+2023-01-10/01:03:08		column number validation started!!
+2023-01-10/01:03:08		column number validation ended!!
+2023-01-10/01:03:08		empty columns validation started!!
+2023-01-10/01:03:08		empty columns validation ended!!
+2023-01-10/01:03:08		data transformation validation started!!
+2023-01-10/01:03:09		data transformation validation ended!!
+2023-01-10/01:03:09		database operation started!!
+2023-01-10/01:03:09		table creation started!!
+2023-01-10/01:03:09		table successfully created!!
+2023-01-10/01:03:09		insertion of data into table started!
+2023-01-10/01:03:10		insertion of data into table successful!
+2023-01-10/01:03:10		insert table data into csv file started!
+2023-01-10/01:03:11		insert table data into csv file successful!
+2023-01-10/01:03:11		prediction validation  and transformation successfully ended!
+2023-01-10/01:03:46		prediction validation  and transformation started!!
+2023-01-10/01:03:46		file name validation started!!
+2023-01-10/01:03:46		filename validation ended!!
+2023-01-10/01:03:46		column number validation started!!
+2023-01-10/01:03:46		column number validation ended!!
+2023-01-10/01:03:46		empty columns validation started!!
+2023-01-10/01:03:46		empty columns validation ended!!
+2023-01-10/01:03:46		data transformation validation started!!
+2023-01-10/01:03:46		data transformation validation ended!!
+2023-01-10/01:03:46		database operation started!!
+2023-01-10/01:03:46		table creation started!!
+2023-01-10/01:03:47		table successfully created!!
+2023-01-10/01:03:47		insertion of data into table started!
+2023-01-10/01:03:47		insertion of data into table successful!
+2023-01-10/01:03:47		insert table data into csv file started!
+2023-01-10/01:03:48		insert table data into csv file successful!
+2023-01-10/01:03:48		prediction validation  and transformation successfully ended!
+2023-01-10/01:03:51		prediction validation  and transformation started!!
+2023-01-10/01:03:51		file name validation started!!
+2023-01-10/01:03:51		filename validation ended!!
+2023-01-10/01:03:51		column number validation started!!
+2023-01-10/01:03:52		column number validation ended!!
+2023-01-10/01:03:52		empty columns validation started!!
+2023-01-10/01:03:52		empty columns validation ended!!
+2023-01-10/01:03:52		data transformation validation started!!
+2023-01-10/01:03:52		data transformation validation ended!!
+2023-01-10/01:03:52		database operation started!!
+2023-01-10/01:03:52		table creation started!!
+2023-01-10/01:03:52		table successfully created!!
+2023-01-10/01:03:52		insertion of data into table started!
+2023-01-10/01:03:52		insertion of data into table successful!
+2023-01-10/01:03:52		insert table data into csv file started!
+2023-01-10/01:03:53		insert table data into csv file successful!
+2023-01-10/01:03:53		prediction validation  and transformation successfully ended!
+2023-01-10/01:09:01		prediction validation  and transformation started!!
+2023-01-10/01:09:01		file name validation started!!
+2023-01-10/01:09:01		filename validation ended!!
+2023-01-10/01:09:01		column number validation started!!
+2023-01-10/01:09:01		column number validation ended!!
+2023-01-10/01:09:01		empty columns validation started!!
+2023-01-10/01:09:01		empty columns validation ended!!
+2023-01-10/01:09:01		data transformation validation started!!
+2023-01-10/01:09:02		data transformation validation ended!!
+2023-01-10/01:09:02		database operation started!!
+2023-01-10/01:09:02		table creation started!!
+2023-01-10/01:09:02		table successfully created!!
+2023-01-10/01:09:02		insertion of data into table started!
+2023-01-10/01:09:03		insertion of data into table successful!
+2023-01-10/01:09:03		insert table data into csv file started!
+2023-01-10/01:09:03		insert table data into csv file successful!
+2023-01-10/01:09:03		prediction validation  and transformation successfully ended!
+2023-01-10/01:21:35		prediction validation  and transformation started!!
+2023-01-10/01:21:35		file name validation started!!
+2023-01-10/01:21:35		filename validation ended!!
+2023-01-10/01:21:35		column number validation started!!
+2023-01-10/01:21:35		column number validation ended!!
+2023-01-10/01:21:35		empty columns validation started!!
+2023-01-10/01:21:36		empty columns validation ended!!
+2023-01-10/01:21:36		data transformation validation started!!
+2023-01-10/01:21:36		data transformation validation ended!!
+2023-01-10/01:21:36		database operation started!!
+2023-01-10/01:21:36		table creation started!!
+2023-01-10/01:21:36		table successfully created!!
+2023-01-10/01:21:36		insertion of data into table started!
+2023-01-10/01:21:36		insertion of data into table successful!
+2023-01-10/01:21:36		insert table data into csv file started!
+2023-01-10/01:21:37		insert table data into csv file successful!
+2023-01-10/01:21:37		prediction validation  and transformation successfully ended!
+2023-01-10/01:23:38		prediction validation  and transformation started!!
+2023-01-10/01:23:38		file name validation started!!
+2023-01-10/01:23:38		filename validation ended!!
+2023-01-10/01:23:38		column number validation started!!
+2023-01-10/01:23:38		column number validation ended!!
+2023-01-10/01:23:38		empty columns validation started!!
+2023-01-10/01:23:38		empty columns validation ended!!
+2023-01-10/01:23:38		data transformation validation started!!
+2023-01-10/01:23:38		data transformation validation ended!!
+2023-01-10/01:23:38		database operation started!!
+2023-01-10/01:23:38		table creation started!!
+2023-01-10/01:23:38		table successfully created!!
+2023-01-10/01:23:38		insertion of data into table started!
+2023-01-10/01:23:38		insertion of data into table successful!
+2023-01-10/01:23:38		insert table data into csv file started!
+2023-01-10/01:23:39		insert table data into csv file successful!
+2023-01-10/01:23:39		prediction validation  and transformation successfully ended!
+2023-01-10/01:30:36		prediction validation  and transformation started!!
+2023-01-10/01:30:36		file name validation started!!
+2023-01-10/01:30:36		filename validation ended!!
+2023-01-10/01:30:36		column number validation started!!
+2023-01-10/01:30:36		column number validation ended!!
+2023-01-10/01:30:36		empty columns validation started!!
+2023-01-10/01:30:37		empty columns validation ended!!
+2023-01-10/01:30:37		data transformation validation started!!
+2023-01-10/01:30:37		data transformation validation ended!!
+2023-01-10/01:30:37		database operation started!!
+2023-01-10/01:30:37		table creation started!!
+2023-01-10/01:30:37		table successfully created!!
+2023-01-10/01:30:37		insertion of data into table started!
+2023-01-10/01:30:37		insertion of data into table successful!
+2023-01-10/01:30:37		insert table data into csv file started!
+2023-01-10/01:30:38		insert table data into csv file successful!
+2023-01-10/01:30:38		prediction validation  and transformation successfully ended!
+2023-01-10/01:30:53		prediction validation  and transformation started!!
+2023-01-10/01:30:53		file name validation started!!
+2023-01-10/01:30:53		filename validation ended!!
+2023-01-10/01:30:53		column number validation started!!
+2023-01-10/01:30:53		column number validation ended!!
+2023-01-10/01:30:53		empty columns validation started!!
+2023-01-10/01:30:53		empty columns validation ended!!
+2023-01-10/01:30:53		data transformation validation started!!
+2023-01-10/01:30:53		data transformation validation ended!!
+2023-01-10/01:30:53		database operation started!!
+2023-01-10/01:30:53		table creation started!!
+2023-01-10/01:30:53		table successfully created!!
+2023-01-10/01:30:53		insertion of data into table started!
+2023-01-10/01:30:54		insertion of data into table successful!
+2023-01-10/01:30:54		insert table data into csv file started!
+2023-01-10/01:30:54		insert table data into csv file successful!
+2023-01-10/01:30:54		prediction validation  and transformation successfully ended!
+2023-01-10/01:31:49		prediction validation  and transformation started!!
+2023-01-10/01:31:49		file name validation started!!
+2023-01-10/01:31:49		filename validation ended!!
+2023-01-10/01:31:49		column number validation started!!
+2023-01-10/01:31:49		column number validation ended!!
+2023-01-10/01:31:49		empty columns validation started!!
+2023-01-10/01:31:49		empty columns validation ended!!
+2023-01-10/01:31:49		data transformation validation started!!
+2023-01-10/01:31:49		data transformation validation ended!!
+2023-01-10/01:31:49		database operation started!!
+2023-01-10/01:31:49		table creation started!!
+2023-01-10/01:31:49		table successfully created!!
+2023-01-10/01:31:49		insertion of data into table started!
+2023-01-10/01:31:49		insertion of data into table successful!
+2023-01-10/01:31:49		insert table data into csv file started!
+2023-01-10/01:31:50		insert table data into csv file successful!
+2023-01-10/01:31:50		prediction validation  and transformation successfully ended!
+2023-01-10/01:34:14		prediction validation  and transformation started!!
+2023-01-10/01:34:14		file name validation started!!
+2023-01-10/01:34:14		filename validation ended!!
+2023-01-10/01:34:14		column number validation started!!
+2023-01-10/01:34:15		column number validation ended!!
+2023-01-10/01:34:15		empty columns validation started!!
+2023-01-10/01:34:15		empty columns validation ended!!
+2023-01-10/01:34:15		data transformation validation started!!
+2023-01-10/01:34:15		data transformation validation ended!!
+2023-01-10/01:34:15		database operation started!!
+2023-01-10/01:34:15		table creation started!!
+2023-01-10/01:34:15		table successfully created!!
+2023-01-10/01:34:15		insertion of data into table started!
+2023-01-10/01:34:15		insertion of data into table successful!
+2023-01-10/01:34:15		insert table data into csv file started!
+2023-01-10/01:34:16		insert table data into csv file successful!
+2023-01-10/01:34:16		prediction validation  and transformation successfully ended!
+2023-01-10/04:24:37		prediction validation  and transformation started!!
+2023-01-10/04:24:37		file name validation started!!
+2023-01-10/04:24:38		filename validation ended!!
+2023-01-10/04:24:38		column number validation started!!
+2023-01-10/04:24:38		column number validation ended!!
+2023-01-10/04:24:38		empty columns validation started!!
+2023-01-10/04:24:38		empty columns validation ended!!
+2023-01-10/04:24:38		data transformation validation started!!
+2023-01-10/04:24:38		data transformation validation ended!!
+2023-01-10/04:24:38		database operation started!!
+2023-01-10/04:24:38		table creation started!!
+2023-01-10/04:24:40		table successfully created!!
+2023-01-10/04:24:40		insertion of data into table started!
+2023-01-10/04:24:40		insertion of data into table successful!
+2023-01-10/04:24:40		insert table data into csv file started!
+2023-01-10/04:24:42		insert table data into csv file successful!
+2023-01-10/04:24:42		prediction validation  and transformation successfully ended!
+2023-01-10/04:25:02		prediction validation  and transformation started!!
+2023-01-10/04:25:02		file name validation started!!
+2023-01-10/04:25:02		filename validation ended!!
+2023-01-10/04:25:02		column number validation started!!
+2023-01-10/04:25:02		column number validation ended!!
+2023-01-10/04:25:02		empty columns validation started!!
+2023-01-10/04:25:02		empty columns validation ended!!
+2023-01-10/04:25:02		data transformation validation started!!
+2023-01-10/04:25:02		data transformation validation ended!!
+2023-01-10/04:25:02		database operation started!!
+2023-01-10/04:25:02		table creation started!!
+2023-01-10/04:25:03		table successfully created!!
+2023-01-10/04:25:03		insertion of data into table started!
+2023-01-10/04:25:03		insertion of data into table successful!
+2023-01-10/04:25:03		insert table data into csv file started!
+2023-01-10/04:25:04		insert table data into csv file successful!
+2023-01-10/04:25:04		prediction validation  and transformation successfully ended!
+2023-01-10/20:55:50		prediction validation  and transformation started!!
+2023-01-10/20:55:50		file name validation started!!
+2023-01-10/20:55:50		filename validation ended!!
+2023-01-10/20:55:50		column number validation started!!
+2023-01-10/20:55:52		column number validation ended!!
+2023-01-10/20:55:52		empty columns validation started!!
+2023-01-10/20:55:52		empty columns validation ended!!
+2023-01-10/20:55:52		data transformation validation started!!
+2023-01-10/20:55:52		data transformation validation ended!!
+2023-01-10/20:55:52		database operation started!!
+2023-01-10/20:55:52		table creation started!!
+2023-01-10/20:55:53		table successfully created!!
+2023-01-10/20:55:53		insertion of data into table started!
+2023-01-10/20:55:54		insertion of data into table successful!
+2023-01-10/20:55:54		insert table data into csv file started!
+2023-01-10/20:55:55		insert table data into csv file successful!
+2023-01-10/20:55:55		prediction validation  and transformation successfully ended!
+2023-01-10/21:03:41		prediction validation  and transformation started!!
+2023-01-10/21:03:41		file name validation started!!
+2023-01-10/21:03:42		filename validation ended!!
+2023-01-10/21:03:42		column number validation started!!
+2023-01-10/21:03:42		column number validation ended!!
+2023-01-10/21:03:42		empty columns validation started!!
+2023-01-10/21:03:42		empty columns validation ended!!
+2023-01-10/21:03:42		data transformation validation started!!
+2023-01-10/21:03:42		data transformation validation ended!!
+2023-01-10/21:03:42		database operation started!!
+2023-01-10/21:03:42		table creation started!!
+2023-01-10/21:03:44		table successfully created!!
+2023-01-10/21:03:44		insertion of data into table started!
+2023-01-10/21:03:44		insertion of data into table successful!
+2023-01-10/21:03:44		insert table data into csv file started!
+2023-01-10/21:03:45		insert table data into csv file successful!
+2023-01-10/21:03:45		prediction validation  and transformation successfully ended!
+2023-01-10/21:07:16		prediction validation  and transformation started!!
+2023-01-10/21:07:16		file name validation started!!
+2023-01-10/21:07:17		filename validation ended!!
+2023-01-10/21:07:17		column number validation started!!
+2023-01-10/21:07:20		column number validation ended!!
+2023-01-10/21:07:20		empty columns validation started!!
+2023-01-10/21:07:20		empty columns validation ended!!
+2023-01-10/21:07:20		data transformation validation started!!
+2023-01-10/21:07:20		data transformation validation ended!!
+2023-01-10/21:07:20		database operation started!!
+2023-01-10/21:07:20		table creation started!!
+2023-01-10/21:07:22		table successfully created!!
+2023-01-10/21:07:22		insertion of data into table started!
+2023-01-10/21:07:22		insertion of data into table successful!
+2023-01-10/21:07:22		insert table data into csv file started!
+2023-01-10/21:07:24		insert table data into csv file successful!
+2023-01-10/21:07:24		prediction validation  and transformation successfully ended!
+2023-01-10/21:15:00		prediction validation  and transformation started!!
+2023-01-10/21:15:00		file name validation started!!
+2023-01-10/21:15:00		filename validation ended!!
+2023-01-10/21:15:00		column number validation started!!
+2023-01-10/21:15:00		column number validation ended!!
+2023-01-10/21:15:00		empty columns validation started!!
+2023-01-10/21:15:01		empty columns validation ended!!
+2023-01-10/21:15:01		data transformation validation started!!
+2023-01-10/21:15:01		data transformation validation ended!!
+2023-01-10/21:15:01		database operation started!!
+2023-01-10/21:15:01		table creation started!!
+2023-01-10/21:15:01		table successfully created!!
+2023-01-10/21:15:01		insertion of data into table started!
+2023-01-10/21:15:02		insertion of data into table successful!
+2023-01-10/21:15:02		insert table data into csv file started!
+2023-01-10/21:15:03		insert table data into csv file successful!
+2023-01-10/21:15:03		prediction validation  and transformation successfully ended!
+2023-01-10/21:24:44		prediction validation  and transformation started!!
+2023-01-10/21:24:44		file name validation started!!
+2023-01-10/21:24:44		filename validation ended!!
+2023-01-10/21:24:44		column number validation started!!
+2023-01-10/21:24:45		column number validation ended!!
+2023-01-10/21:24:45		empty columns validation started!!
+2023-01-10/21:24:45		empty columns validation ended!!
+2023-01-10/21:24:45		data transformation validation started!!
+2023-01-10/21:24:45		data transformation validation ended!!
+2023-01-10/21:24:45		database operation started!!
+2023-01-10/21:24:45		table creation started!!
+2023-01-10/21:24:45		table successfully created!!
+2023-01-10/21:24:45		insertion of data into table started!
+2023-01-10/21:24:46		insertion of data into table successful!
+2023-01-10/21:24:46		insert table data into csv file started!
+2023-01-10/21:24:47		insert table data into csv file successful!
+2023-01-10/21:24:47		prediction validation  and transformation successfully ended!
+2023-01-10/21:25:54		prediction validation  and transformation started!!
+2023-01-10/21:25:54		file name validation started!!
+2023-01-10/21:25:54		filename validation ended!!
+2023-01-10/21:25:54		column number validation started!!
+2023-01-10/21:25:54		column number validation ended!!
+2023-01-10/21:25:54		empty columns validation started!!
+2023-01-10/21:25:54		empty columns validation ended!!
+2023-01-10/21:25:54		data transformation validation started!!
+2023-01-10/21:25:55		data transformation validation ended!!
+2023-01-10/21:25:55		database operation started!!
+2023-01-10/21:25:55		table creation started!!
+2023-01-10/21:25:55		table successfully created!!
+2023-01-10/21:25:55		insertion of data into table started!
+2023-01-10/21:25:55		insertion of data into table successful!
+2023-01-10/21:25:55		insert table data into csv file started!
+2023-01-10/21:25:56		insert table data into csv file successful!
+2023-01-10/21:25:56		prediction validation  and transformation successfully ended!
+2023-01-10/21:32:15		prediction validation  and transformation started!!
+2023-01-10/21:32:15		file name validation started!!
+2023-01-10/21:32:15		filename validation ended!!
+2023-01-10/21:32:15		column number validation started!!
+2023-01-10/21:32:15		column number validation ended!!
+2023-01-10/21:32:15		empty columns validation started!!
+2023-01-10/21:32:15		empty columns validation ended!!
+2023-01-10/21:32:15		data transformation validation started!!
+2023-01-10/21:32:15		data transformation validation ended!!
+2023-01-10/21:32:15		database operation started!!
+2023-01-10/21:32:15		table creation started!!
+2023-01-10/21:32:15		table successfully created!!
+2023-01-10/21:32:15		insertion of data into table started!
+2023-01-10/21:32:16		insertion of data into table successful!
+2023-01-10/21:32:16		insert table data into csv file started!
+2023-01-10/21:32:17		insert table data into csv file successful!
+2023-01-10/21:32:17		prediction validation  and transformation successfully ended!
+2023-01-10/21:37:42		prediction validation  and transformation started!!
+2023-01-10/21:37:42		file name validation started!!
+2023-01-10/21:37:42		filename validation ended!!
+2023-01-10/21:37:42		column number validation started!!
+2023-01-10/21:37:42		column number validation ended!!
+2023-01-10/21:37:42		empty columns validation started!!
+2023-01-10/21:37:42		empty columns validation ended!!
+2023-01-10/21:37:42		data transformation validation started!!
+2023-01-10/21:37:42		data transformation validation ended!!
+2023-01-10/21:37:42		database operation started!!
+2023-01-10/21:37:42		table creation started!!
+2023-01-10/21:37:42		table successfully created!!
+2023-01-10/21:37:42		insertion of data into table started!
+2023-01-10/21:37:43		insertion of data into table successful!
+2023-01-10/21:37:43		insert table data into csv file started!
+2023-01-10/21:37:43		insert table data into csv file successful!
+2023-01-10/21:37:43		prediction validation  and transformation successfully ended!
+2023-01-10/21:50:07		prediction validation  and transformation started!!
+2023-01-10/21:50:07		file name validation started!!
+2023-01-10/21:50:08		filename validation ended!!
+2023-01-10/21:50:08		column number validation started!!
+2023-01-10/21:50:08		column number validation ended!!
+2023-01-10/21:50:08		empty columns validation started!!
+2023-01-10/21:50:08		empty columns validation ended!!
+2023-01-10/21:50:08		data transformation validation started!!
+2023-01-10/21:50:08		data transformation validation ended!!
+2023-01-10/21:50:08		database operation started!!
+2023-01-10/21:50:08		table creation started!!
+2023-01-10/21:50:08		table successfully created!!
+2023-01-10/21:50:08		insertion of data into table started!
+2023-01-10/21:50:09		insertion of data into table successful!
+2023-01-10/21:50:09		insert table data into csv file started!
+2023-01-10/21:50:10		insert table data into csv file successful!
+2023-01-10/21:50:10		prediction validation  and transformation successfully ended!
+2023-01-10/21:50:52		prediction validation  and transformation started!!
+2023-01-10/21:50:52		file name validation started!!
+2023-01-10/21:50:52		filename validation ended!!
+2023-01-10/21:50:52		column number validation started!!
+2023-01-10/21:50:53		column number validation ended!!
+2023-01-10/21:50:53		empty columns validation started!!
+2023-01-10/21:50:53		empty columns validation ended!!
+2023-01-10/21:50:53		data transformation validation started!!
+2023-01-10/21:50:53		data transformation validation ended!!
+2023-01-10/21:50:53		database operation started!!
+2023-01-10/21:50:53		table creation started!!
+2023-01-10/21:50:53		table successfully created!!
+2023-01-10/21:50:53		insertion of data into table started!
+2023-01-10/21:50:53		insertion of data into table successful!
+2023-01-10/21:50:53		insert table data into csv file started!
+2023-01-10/21:50:54		insert table data into csv file successful!
+2023-01-10/21:50:54		prediction validation  and transformation successfully ended!
+2023-01-10/21:53:36		prediction validation  and transformation started!!
+2023-01-10/21:53:36		file name validation started!!
+2023-01-10/21:53:36		filename validation ended!!
+2023-01-10/21:53:36		column number validation started!!
+2023-01-10/21:53:36		column number validation ended!!
+2023-01-10/21:53:36		empty columns validation started!!
+2023-01-10/21:53:36		empty columns validation ended!!
+2023-01-10/21:53:36		data transformation validation started!!
+2023-01-10/21:53:36		data transformation validation ended!!
+2023-01-10/21:53:36		database operation started!!
+2023-01-10/21:53:36		table creation started!!
+2023-01-10/21:53:36		table successfully created!!
+2023-01-10/21:53:36		insertion of data into table started!
+2023-01-10/21:53:37		insertion of data into table successful!
+2023-01-10/21:53:37		insert table data into csv file started!
+2023-01-10/21:53:38		insert table data into csv file successful!
+2023-01-10/21:53:38		prediction validation  and transformation successfully ended!
+2023-01-11/00:46:12		prediction validation  and transformation started!!
+2023-01-11/00:46:12		file name validation started!!
+2023-01-11/00:46:13		filename validation ended!!
+2023-01-11/00:46:13		column number validation started!!
+2023-01-11/00:46:15		column number validation ended!!
+2023-01-11/00:46:15		empty columns validation started!!
+2023-01-11/00:46:15		empty columns validation ended!!
+2023-01-11/00:46:15		data transformation validation started!!
+2023-01-11/00:46:16		data transformation validation ended!!
+2023-01-11/00:46:16		database operation started!!
+2023-01-11/00:46:16		table creation started!!
+2023-01-11/00:46:23		table successfully created!!
+2023-01-11/00:46:23		insertion of data into table started!
+2023-01-11/00:46:24		insertion of data into table successful!
+2023-01-11/00:46:24		insert table data into csv file started!
+2023-01-11/00:46:26		insert table data into csv file successful!
+2023-01-11/00:46:26		prediction validation  and transformation successfully ended!

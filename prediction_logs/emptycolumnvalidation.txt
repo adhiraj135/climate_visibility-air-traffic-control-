@@ -34,3 +34,65 @@
 2023-01-06/23:47:02		error in emptycolumnvalidation : 'str' object has no attribute 'write'
 2023-01-06/23:48:06		empty columns validation started
 2023-01-06/23:48:06		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-09/22:26:36		empty columns validation started
+2023-01-09/22:26:36		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-09/23:25:50		empty columns validation started
+2023-01-09/23:25:50		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-09/23:32:44		empty columns validation started
+2023-01-09/23:32:44		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-09/23:37:10		empty columns validation started
+2023-01-09/23:37:10		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-09/23:41:19		empty columns validation started
+2023-01-09/23:41:19		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-09/23:41:54		empty columns validation started
+2023-01-09/23:41:54		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-09/23:46:52		empty columns validation started
+2023-01-09/23:46:52		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/01:03:08		empty columns validation started
+2023-01-10/01:03:08		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/01:03:46		empty columns validation started
+2023-01-10/01:03:46		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/01:03:52		empty columns validation started
+2023-01-10/01:03:52		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/01:09:01		empty columns validation started
+2023-01-10/01:09:01		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/01:21:35		empty columns validation started
+2023-01-10/01:21:36		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/01:23:38		empty columns validation started
+2023-01-10/01:23:38		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/01:30:36		empty columns validation started
+2023-01-10/01:30:37		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/01:30:53		empty columns validation started
+2023-01-10/01:30:53		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/01:31:49		empty columns validation started
+2023-01-10/01:31:49		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/01:34:15		empty columns validation started
+2023-01-10/01:34:15		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/04:24:38		empty columns validation started
+2023-01-10/04:24:38		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/04:25:02		empty columns validation started
+2023-01-10/04:25:02		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/20:55:52		empty columns validation started
+2023-01-10/20:55:52		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/21:03:42		empty columns validation started
+2023-01-10/21:03:42		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/21:07:20		empty columns validation started
+2023-01-10/21:07:20		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/21:15:01		empty columns validation started
+2023-01-10/21:15:01		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/21:24:45		empty columns validation started
+2023-01-10/21:24:45		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/21:25:54		empty columns validation started
+2023-01-10/21:25:54		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/21:32:15		empty columns validation started
+2023-01-10/21:32:15		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/21:37:42		empty columns validation started
+2023-01-10/21:37:42		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/21:50:08		empty columns validation started
+2023-01-10/21:50:08		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/21:50:53		empty columns validation started
+2023-01-10/21:50:53		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-10/21:53:36		empty columns validation started
+2023-01-10/21:53:36		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-01-11/00:46:15		empty columns validation started
+2023-01-11/00:46:15		error in emptycolumnvalidation : 'str' object has no attribute 'write'

@@ -36,3 +36,65 @@
 
 2023-01-06/23:48:05		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
 
+2023-01-09/22:26:35		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-09/23:25:48		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-09/23:32:43		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-09/23:37:10		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-09/23:41:19		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-09/23:41:54		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-09/23:46:52		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/01:03:08		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/01:03:46		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/01:03:51		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/01:09:01		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/01:21:35		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/01:23:38		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/01:30:36		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/01:30:53		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/01:31:49		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/01:34:14		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/04:24:37		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/04:25:02		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/20:55:50		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/21:03:41		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/21:07:16		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/21:15:00		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/21:24:44		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/21:25:54		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/21:32:15		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/21:37:42		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/21:50:07		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/21:50:52		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-10/21:53:36		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+
+2023-01-11/00:46:13		lengthofdatestampinfile : 8	lengthoftimestampinfile : 6	numberofcolumns 10
+

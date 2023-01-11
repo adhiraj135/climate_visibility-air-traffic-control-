@@ -31,3 +31,7 @@
 2023-01-04/23:44:25		table already exists now data from table will be transfered to csv file
 2023-01-05/20:57:43		table successfully created
 2023-01-06/03:11:16		table already exists now data from table will be transfered to csv file
+2023-01-10/21:19:55		table already exists now data from table will be transfered to csv file
+2023-01-10/21:54:18		table already exists now data from table will be transfered to csv file
+2023-01-10/21:59:31		table already exists now data from table will be transfered to csv file
+2023-01-10/22:01:54		table already exists now data from table will be transfered to csv file

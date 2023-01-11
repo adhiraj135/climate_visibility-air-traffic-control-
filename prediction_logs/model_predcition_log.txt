@@ -1477,3 +1477,930 @@
 2023-01-06/23:48:08		model loading started.entered the model loading method of fileoperation class
 2023-01-06/23:48:08		model loading successfull.exited the model loading method of fileoperation class
 2023-01-06/23:48:08		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-09/22:26:48		predict from model started!!
+2023-01-09/22:26:48		data loading started.entered the get data method of data_getter class
+2023-01-09/22:26:48		data loaded successfully.exited the get data method of data_getter class
+2023-01-09/22:26:48		entered the remove unnecessary column method of preprocessing class
+2023-01-09/22:26:48		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-09/22:26:48		entered the is null present method of preprocessing class
+2023-01-09/22:26:48		null columns present : [].exited the is null present method of preprocessing class
+2023-01-09/22:26:48		model loading started.entered the model loading method of fileoperation class
+2023-01-09/22:26:48		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/22:26:49		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-09/22:26:50		clusters are [3 1 2 0]
+2023-01-09/22:26:50		model selection started.entered the model selection method of fileoperation class
+2023-01-09/22:26:50		model loading started.entered the model loading method of fileoperation class
+2023-01-09/22:26:50		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/22:26:50		model selection started.entered the model selection method of fileoperation class
+2023-01-09/22:26:50		model loading started.entered the model loading method of fileoperation class
+2023-01-09/22:26:50		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/22:26:50		model selection started.entered the model selection method of fileoperation class
+2023-01-09/22:26:50		model loading started.entered the model loading method of fileoperation class
+2023-01-09/22:26:50		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/22:26:50		model selection started.entered the model selection method of fileoperation class
+2023-01-09/22:26:50		model loading started.entered the model loading method of fileoperation class
+2023-01-09/22:26:50		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/22:26:50		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-09/23:25:54		predict from model started!!
+2023-01-09/23:25:54		data loading started.entered the get data method of data_getter class
+2023-01-09/23:25:54		data loaded successfully.exited the get data method of data_getter class
+2023-01-09/23:25:54		entered the remove unnecessary column method of preprocessing class
+2023-01-09/23:25:54		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-09/23:25:54		entered the is null present method of preprocessing class
+2023-01-09/23:25:54		null columns present : [].exited the is null present method of preprocessing class
+2023-01-09/23:25:54		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:25:54		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:25:55		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-09/23:25:55		clusters are [3 1 2 0]
+2023-01-09/23:25:55		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:25:55		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:25:55		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:25:56		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:25:56		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:25:56		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:25:56		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:25:56		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:25:56		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:25:56		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:25:56		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:25:56		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:25:56		error in predicting from data: Cannot save file into a non-existent directory: 'prediction_output_file'
+2023-01-09/23:32:45		predict from model started!!
+2023-01-09/23:32:45		data loading started.entered the get data method of data_getter class
+2023-01-09/23:32:45		data loaded successfully.exited the get data method of data_getter class
+2023-01-09/23:32:45		entered the remove unnecessary column method of preprocessing class
+2023-01-09/23:32:45		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-09/23:32:45		entered the is null present method of preprocessing class
+2023-01-09/23:32:45		null columns present : [].exited the is null present method of preprocessing class
+2023-01-09/23:32:45		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:32:45		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:32:46		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-09/23:32:46		clusters are [3 1 2 0]
+2023-01-09/23:32:46		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:32:46		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:32:46		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:32:46		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:32:46		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:32:46		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:32:46		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:32:46		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:32:46		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:32:46		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:32:46		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:32:46		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:32:46		error in predicting from data: Cannot save file into a non-existent directory: 'prediction_output_file'
+2023-01-09/23:37:12		predict from model started!!
+2023-01-09/23:37:12		data loading started.entered the get data method of data_getter class
+2023-01-09/23:37:12		data loaded successfully.exited the get data method of data_getter class
+2023-01-09/23:37:12		entered the remove unnecessary column method of preprocessing class
+2023-01-09/23:37:12		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-09/23:37:12		entered the is null present method of preprocessing class
+2023-01-09/23:37:12		null columns present : [].exited the is null present method of preprocessing class
+2023-01-09/23:37:12		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:37:12		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:37:12		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-09/23:37:12		clusters are [3 1 2 0]
+2023-01-09/23:37:12		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:37:12		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:37:12		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:37:12		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:37:12		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:37:12		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:37:12		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:37:12		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:37:12		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:37:12		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:37:12		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:37:12		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:37:12		error in predicting from data: [Errno 13] Permission denied: 'prediction_output_file/prediction.csv'
+2023-01-09/23:41:21		predict from model started!!
+2023-01-09/23:41:21		error in predicting from data: [WinError 5] Access is denied: 'prediction_output_file/prediction.csv'
+2023-01-09/23:41:56		predict from model started!!
+2023-01-09/23:41:56		data loading started.entered the get data method of data_getter class
+2023-01-09/23:41:56		data loaded successfully.exited the get data method of data_getter class
+2023-01-09/23:41:56		entered the remove unnecessary column method of preprocessing class
+2023-01-09/23:41:56		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-09/23:41:56		entered the is null present method of preprocessing class
+2023-01-09/23:41:56		null columns present : [].exited the is null present method of preprocessing class
+2023-01-09/23:41:56		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:41:56		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:41:56		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-09/23:41:56		clusters are [3 1 2 0]
+2023-01-09/23:41:56		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:41:56		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:41:56		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:41:56		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:41:56		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:41:56		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:41:56		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:41:56		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:41:56		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:41:56		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:41:56		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:41:56		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:41:56		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-09/23:46:53		predict from model started!!
+2023-01-09/23:46:53		data loading started.entered the get data method of data_getter class
+2023-01-09/23:46:53		data loaded successfully.exited the get data method of data_getter class
+2023-01-09/23:46:53		entered the remove unnecessary column method of preprocessing class
+2023-01-09/23:46:53		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-09/23:46:53		entered the is null present method of preprocessing class
+2023-01-09/23:46:53		null columns present : [].exited the is null present method of preprocessing class
+2023-01-09/23:46:53		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:46:53		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:46:54		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-09/23:46:54		clusters are [3 1 2 0]
+2023-01-09/23:46:54		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:46:54		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:46:54		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:46:54		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:46:54		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:46:54		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:46:54		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:46:54		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:46:54		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:46:54		model selection started.entered the model selection method of fileoperation class
+2023-01-09/23:46:54		model loading started.entered the model loading method of fileoperation class
+2023-01-09/23:46:54		model loading successfull.exited the model loading method of fileoperation class
+2023-01-09/23:46:54		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-10/01:03:11		predict from model started!!
+2023-01-10/01:03:11		data loading started.entered the get data method of data_getter class
+2023-01-10/01:03:11		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/01:03:11		entered the remove unnecessary column method of preprocessing class
+2023-01-10/01:03:11		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/01:03:11		entered the is null present method of preprocessing class
+2023-01-10/01:03:11		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/01:03:11		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:03:11		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:03:12		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-10/01:03:12		clusters are [3 1 2 0]
+2023-01-10/01:03:12		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:03:12		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:03:12		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:03:12		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:03:12		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:03:12		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:03:12		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:03:12		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:03:12		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:03:12		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:03:12		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:03:12		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:03:13		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-10/01:03:48		predict from model started!!
+2023-01-10/01:03:48		data loading started.entered the get data method of data_getter class
+2023-01-10/01:03:48		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/01:03:48		entered the remove unnecessary column method of preprocessing class
+2023-01-10/01:03:48		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/01:03:48		entered the is null present method of preprocessing class
+2023-01-10/01:03:48		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/01:03:48		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:03:48		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:03:48		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-10/01:03:48		clusters are [3 1 2 0]
+2023-01-10/01:03:48		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:03:48		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:03:48		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:03:48		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:03:48		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:03:48		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:03:48		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:03:48		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:03:48		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:03:48		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:03:48		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:03:48		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:03:48		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-10/01:03:53		predict from model started!!
+2023-01-10/01:03:53		data loading started.entered the get data method of data_getter class
+2023-01-10/01:03:53		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/01:03:53		entered the remove unnecessary column method of preprocessing class
+2023-01-10/01:03:53		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/01:03:53		entered the is null present method of preprocessing class
+2023-01-10/01:03:53		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/01:03:53		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:03:53		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:03:53		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-10/01:03:53		clusters are [3 1 2 0]
+2023-01-10/01:03:53		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:03:53		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:03:53		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:03:53		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:03:53		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:03:53		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:03:53		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:03:53		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:03:53		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:03:53		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:03:53		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:03:53		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:03:53		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-10/01:09:03		predict from model started!!
+2023-01-10/01:09:03		data loading started.entered the get data method of data_getter class
+2023-01-10/01:09:04		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/01:09:04		entered the remove unnecessary column method of preprocessing class
+2023-01-10/01:09:04		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/01:09:04		entered the is null present method of preprocessing class
+2023-01-10/01:09:04		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/01:09:04		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:09:04		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:09:04		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-10/01:09:04		clusters are [3 1 2 0]
+2023-01-10/01:09:04		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:09:04		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:09:04		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:09:04		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:09:04		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:09:04		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:09:04		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:09:04		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:09:04		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:09:04		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:09:04		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:09:04		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:09:04		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-10/01:21:37		predict from model started!!
+2023-01-10/01:21:37		data loading started.entered the get data method of data_getter class
+2023-01-10/01:21:37		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/01:21:37		entered the remove unnecessary column method of preprocessing class
+2023-01-10/01:21:37		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/01:21:37		entered the is null present method of preprocessing class
+2023-01-10/01:21:37		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/01:21:37		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:21:37		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:21:37		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-10/01:21:37		clusters are [3 1 2 0]
+2023-01-10/01:21:37		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:21:37		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:21:37		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:21:37		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:21:37		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:21:37		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:21:37		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:21:37		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:21:37		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:21:37		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:21:37		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:21:37		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:21:37		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-10/01:30:38		predict from model started!!
+2023-01-10/01:30:38		data loading started.entered the get data method of data_getter class
+2023-01-10/01:30:38		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/01:30:38		entered the remove unnecessary column method of preprocessing class
+2023-01-10/01:30:38		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/01:30:38		entered the is null present method of preprocessing class
+2023-01-10/01:30:38		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/01:30:38		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:30:38		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:30:38		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-10/01:30:38		clusters are [3 1 2 0]
+2023-01-10/01:30:38		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:30:38		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:30:38		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:30:38		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:30:38		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:30:38		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:30:38		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:30:38		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:30:38		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:30:38		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:30:38		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:30:38		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:30:38		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-10/01:31:50		predict from model started!!
+2023-01-10/01:31:50		data loading started.entered the get data method of data_getter class
+2023-01-10/01:31:50		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/01:31:50		entered the remove unnecessary column method of preprocessing class
+2023-01-10/01:31:50		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/01:31:50		entered the is null present method of preprocessing class
+2023-01-10/01:31:50		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/01:31:50		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:31:50		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:31:50		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-10/01:31:50		clusters are [3 1 2 0]
+2023-01-10/01:31:50		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:31:50		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:31:50		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:31:50		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:31:50		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:31:50		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:31:50		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:31:50		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:31:50		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:31:50		model selection started.entered the model selection method of fileoperation class
+2023-01-10/01:31:50		model loading started.entered the model loading method of fileoperation class
+2023-01-10/01:31:50		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/01:31:50		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-10/04:24:42		predict from model started!!
+2023-01-10/04:24:42		data loading started.entered the get data method of data_getter class
+2023-01-10/04:24:42		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/04:24:42		entered the remove unnecessary column method of preprocessing class
+2023-01-10/04:24:42		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/04:24:42		entered the is null present method of preprocessing class
+2023-01-10/04:24:42		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/04:24:42		model loading started.entered the model loading method of fileoperation class
+2023-01-10/04:24:43		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/04:24:43		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-10/04:24:43		clusters are [3 1 2 0]
+2023-01-10/04:24:43		model selection started.entered the model selection method of fileoperation class
+2023-01-10/04:24:43		model loading started.entered the model loading method of fileoperation class
+2023-01-10/04:24:43		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/04:24:43		model selection started.entered the model selection method of fileoperation class
+2023-01-10/04:24:43		model loading started.entered the model loading method of fileoperation class
+2023-01-10/04:24:43		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/04:24:43		model selection started.entered the model selection method of fileoperation class
+2023-01-10/04:24:43		model loading started.entered the model loading method of fileoperation class
+2023-01-10/04:24:43		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/04:24:43		model selection started.entered the model selection method of fileoperation class
+2023-01-10/04:24:43		model loading started.entered the model loading method of fileoperation class
+2023-01-10/04:24:43		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/04:24:43		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-10/20:55:55		predict from model started!!
+2023-01-10/20:55:55		data loading started.entered the get data method of data_getter class
+2023-01-10/20:55:55		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/20:55:55		entered the remove unnecessary column method of preprocessing class
+2023-01-10/20:55:55		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/20:55:55		entered the is null present method of preprocessing class
+2023-01-10/20:55:55		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/20:55:55		model loading started.entered the model loading method of fileoperation class
+2023-01-10/20:55:55		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/20:55:56		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-10/20:55:56		clusters are [3 1 2 0]
+2023-01-10/20:55:56		model selection started.entered the model selection method of fileoperation class
+2023-01-10/20:55:56		model loading started.entered the model loading method of fileoperation class
+2023-01-10/20:55:56		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/20:55:56		model selection started.entered the model selection method of fileoperation class
+2023-01-10/20:55:56		model loading started.entered the model loading method of fileoperation class
+2023-01-10/20:55:56		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/20:55:56		model selection started.entered the model selection method of fileoperation class
+2023-01-10/20:55:56		model loading started.entered the model loading method of fileoperation class
+2023-01-10/20:55:56		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/20:55:56		model selection started.entered the model selection method of fileoperation class
+2023-01-10/20:55:56		model loading started.entered the model loading method of fileoperation class
+2023-01-10/20:55:56		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/20:55:56		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-10/21:03:46		predict from model started!!
+2023-01-10/21:03:46		data loading started.entered the get data method of data_getter class
+2023-01-10/21:03:46		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/21:03:46		entered the remove unnecessary column method of preprocessing class
+2023-01-10/21:03:46		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/21:03:46		entered the is null present method of preprocessing class
+2023-01-10/21:03:46		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/21:03:46		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:03:46		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:03:46		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-10/21:03:46		clusters are [3 1 2 0]
+2023-01-10/21:03:46		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:03:46		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:03:46		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:03:47		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:03:47		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:03:47		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:03:47		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:03:47		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:03:47		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:03:48		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:03:48		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:03:48		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:03:48		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-10/21:15:03		predict from model started!!
+2023-01-10/21:15:03		data loading started.entered the get data method of data_getter class
+2023-01-10/21:15:03		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/21:15:03		entered the remove unnecessary column method of preprocessing class
+2023-01-10/21:15:03		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/21:15:03		entered the is null present method of preprocessing class
+2023-01-10/21:15:03		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/21:15:03		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:15:03		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:15:04		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-10/21:15:04		clusters are [3 1 2 0]
+2023-01-10/21:15:04		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:15:04		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:15:04		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:15:05		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:15:05		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:15:05		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:15:05		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:15:05		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:15:05		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:15:05		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:15:05		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:15:05		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:15:05		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-10/21:24:47		predict from model started!!
+2023-01-10/21:24:47		data loading started.entered the get data method of data_getter class
+2023-01-10/21:24:47		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/21:24:47		entered the remove unnecessary column method of preprocessing class
+2023-01-10/21:24:47		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/21:24:47		entered the is null present method of preprocessing class
+2023-01-10/21:24:47		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/21:24:47		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:24:47		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:24:47		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-10/21:24:47		clusters are [3 1 2 0]
+2023-01-10/21:24:47		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:24:47		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:24:47		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:24:47		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:24:47		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:24:47		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:24:47		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:24:47		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:24:47		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:24:47		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:24:47		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:24:47		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:24:47		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-10/21:25:56		predict from model started!!
+2023-01-10/21:25:56		data loading started.entered the get data method of data_getter class
+2023-01-10/21:25:56		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/21:25:56		entered the remove unnecessary column method of preprocessing class
+2023-01-10/21:25:56		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/21:25:56		entered the is null present method of preprocessing class
+2023-01-10/21:25:56		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/21:25:56		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:25:56		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:25:56		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-10/21:25:56		clusters are [3 1 2 0]
+2023-01-10/21:25:56		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:25:56		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:25:56		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:25:56		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:25:56		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:25:56		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:25:56		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:25:56		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:25:56		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:25:56		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:25:56		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:25:56		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:25:56		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-10/21:32:17		predict from model started!!
+2023-01-10/21:32:17		data loading started.entered the get data method of data_getter class
+2023-01-10/21:32:17		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/21:32:17		entered the remove unnecessary column method of preprocessing class
+2023-01-10/21:32:17		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/21:32:17		entered the is null present method of preprocessing class
+2023-01-10/21:32:17		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/21:32:17		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:32:17		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:32:17		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-10/21:32:17		clusters are [3 1 2 0]
+2023-01-10/21:32:17		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:32:17		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:32:17		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:32:17		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:32:17		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:32:17		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:32:17		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:32:17		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:32:17		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:32:17		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:32:17		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:32:17		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:32:17		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-10/21:37:43		predict from model started!!
+2023-01-10/21:37:43		data loading started.entered the get data method of data_getter class
+2023-01-10/21:37:43		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/21:37:43		entered the remove unnecessary column method of preprocessing class
+2023-01-10/21:37:43		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/21:37:43		entered the is null present method of preprocessing class
+2023-01-10/21:37:43		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/21:37:43		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:37:43		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:37:44		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-10/21:37:44		clusters are [3 1 2 0]
+2023-01-10/21:37:44		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:37:44		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:37:44		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:37:44		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:37:44		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:37:44		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:37:44		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:37:44		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:37:44		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:37:44		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:37:44		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:37:44		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:37:44		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-10/21:50:10		predict from model started!!
+2023-01-10/21:50:10		data loading started.entered the get data method of data_getter class
+2023-01-10/21:50:10		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/21:50:10		entered the remove unnecessary column method of preprocessing class
+2023-01-10/21:50:10		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/21:50:10		entered the is null present method of preprocessing class
+2023-01-10/21:50:10		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/21:50:10		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:50:10		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:50:10		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-10/21:50:10		clusters are [3 1 2 0]
+2023-01-10/21:50:10		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:50:10		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:50:10		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:50:10		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:50:10		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:50:10		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:50:10		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:50:10		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:50:10		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:50:10		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:50:10		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:50:10		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:50:10		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-10/21:50:54		predict from model started!!
+2023-01-10/21:50:54		data loading started.entered the get data method of data_getter class
+2023-01-10/21:50:54		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/21:50:54		entered the remove unnecessary column method of preprocessing class
+2023-01-10/21:50:54		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/21:50:54		entered the is null present method of preprocessing class
+2023-01-10/21:50:54		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/21:50:54		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:50:54		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:50:54		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-10/21:50:54		clusters are [3 1 2 0]
+2023-01-10/21:50:54		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:50:54		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:50:54		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:50:54		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:50:54		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:50:54		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:50:54		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:50:54		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:50:54		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:50:54		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:50:54		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:50:54		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:50:54		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-10/21:53:38		predict from model started!!
+2023-01-10/21:53:38		data loading started.entered the get data method of data_getter class
+2023-01-10/21:53:38		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/21:53:38		entered the remove unnecessary column method of preprocessing class
+2023-01-10/21:53:38		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/21:53:38		entered the is null present method of preprocessing class
+2023-01-10/21:53:38		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/21:53:38		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:53:38		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:53:38		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-10/21:53:38		clusters are [3 1 2 0]
+2023-01-10/21:53:38		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:53:38		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:53:38		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:53:38		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:53:38		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:53:38		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:53:38		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:53:38		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:53:38		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:53:38		model selection started.entered the model selection method of fileoperation class
+2023-01-10/21:53:38		model loading started.entered the model loading method of fileoperation class
+2023-01-10/21:53:38		model loading successfull.exited the model loading method of fileoperation class
+2023-01-10/21:53:38		predict from model ended!!,file created at prediction_output_file/prediction.csv
+2023-01-11/00:46:27		predict from model started!!
+2023-01-11/00:46:27		data loading started.entered the get data method of data_getter class
+2023-01-11/00:46:27		data loaded successfully.exited the get data method of data_getter class
+2023-01-11/00:46:27		entered the remove unnecessary column method of preprocessing class
+2023-01-11/00:46:27		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-11/00:46:27		entered the is null present method of preprocessing class
+2023-01-11/00:46:27		null columns present : [].exited the is null present method of preprocessing class
+2023-01-11/00:46:27		model loading started.entered the model loading method of fileoperation class
+2023-01-11/00:46:27		model loading successfull.exited the model loading method of fileoperation class
+2023-01-11/00:46:29		data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              58.0              70.0  ...             29.90         3
+1              56.0              77.0  ...             29.90         3
+2              55.0              80.0  ...             29.91         3
+3              54.0              87.0  ...             29.92         3
+4              54.0              87.0  ...             29.91         3
+...             ...               ...  ...               ...       ...
+12509          47.0              71.0  ...             30.27         0
+12510          47.0              74.0  ...             30.28         0
+12511          47.0              74.0  ...             30.28         0
+12512          47.0              74.0  ...             30.28         0
+12513          45.0              77.0  ...             30.27         0
+
+[12514 rows x 6 columns]
+2023-01-11/00:46:29		clusters are [3 1 2 0]
+2023-01-11/00:46:29		model selection started.entered the model selection method of fileoperation class
+2023-01-11/00:46:29		model loading started.entered the model loading method of fileoperation class
+2023-01-11/00:46:29		model loading successfull.exited the model loading method of fileoperation class
+2023-01-11/00:46:29		model selection started.entered the model selection method of fileoperation class
+2023-01-11/00:46:29		model loading started.entered the model loading method of fileoperation class
+2023-01-11/00:46:29		model loading successfull.exited the model loading method of fileoperation class
+2023-01-11/00:46:29		model selection started.entered the model selection method of fileoperation class
+2023-01-11/00:46:29		model loading started.entered the model loading method of fileoperation class
+2023-01-11/00:46:29		model loading successfull.exited the model loading method of fileoperation class
+2023-01-11/00:46:29		model selection started.entered the model selection method of fileoperation class
+2023-01-11/00:46:29		model loading started.entered the model loading method of fileoperation class
+2023-01-11/00:46:29		model loading successfull.exited the model loading method of fileoperation class
+2023-01-11/00:46:30		predict from model ended!!,file created at prediction_output_file/prediction.csv

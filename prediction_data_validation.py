@@ -4,7 +4,7 @@ from prediction_data_transformation.pred_transform import data_transform
 from app_logging.logger import logger
 
 
-class data_validatation_and_transformation:
+class prediction_data_validatation_and_transformation:
 
     def __init__(self,path):
         self.path='Prediction_Batch_files/'
@@ -14,7 +14,7 @@ class data_validatation_and_transformation:
         self.logger_object=logger()
         self.file_object=open("prediction_logs/prediction_main_logs.txt","a+")
 
-    def validate_and_transform(self):
+    def prediction_validate_and_transform(self):
         self.logger_object.log(self.file_object,"prediction validation  and transformation started!!")
         try:
 

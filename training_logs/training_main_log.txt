@@ -24,3 +24,63 @@
 2023-01-06/03:11:16		data insertion in a input csv file started!
 2023-01-06/03:11:20		data inserted in a input csv file successfully!
 2023-01-06/03:11:20		validation ended
+2023-01-10/21:14:48		validation started!
+2023-01-10/21:14:48		error in validating and transformation : listdir: path should be string, bytes, os.PathLike or None, not ImmutableMultiDict
+2023-01-10/21:15:13		validation started!
+2023-01-10/21:15:13		error in validating and transformation : listdir: path should be string, bytes, os.PathLike or None, not ImmutableMultiDict
+2023-01-10/21:19:50		validation started!
+2023-01-10/21:19:52		filename validated successfully!
+2023-01-10/21:19:53		column len validated successfully!
+2023-01-10/21:19:54		empty columns validated successfully!
+2023-01-10/21:19:54		validation completed!
+2023-01-10/21:19:54		db operation started!
+2023-01-10/21:19:54		table creation started!
+2023-01-10/21:19:55		table created successfully!
+2023-01-10/21:19:55		data insertion into table started!
+2023-01-10/21:19:57		data inserted inside table successfully!
+2023-01-10/21:19:57		data insertion in a input csv file started!
+2023-01-10/21:20:05		data inserted in a input csv file successfully!
+2023-01-10/21:20:05		validation ended
+2023-01-10/21:27:13		validation started!
+2023-01-10/21:27:13		error in validating and transformation : [WinError 3] The system cannot find the path specified: "ImmutableMultiDict([('Training File Path', 'Training_Batch_Files')])"
+2023-01-10/21:27:44		validation started!
+2023-01-10/21:27:44		error in validating and transformation : [WinError 3] The system cannot find the path specified: "ImmutableMultiDict([('Training File Path', 'Training_Batch_Files/')])"
+2023-01-10/21:54:16		validation started!
+2023-01-10/21:54:16		filename validated successfully!
+2023-01-10/21:54:17		column len validated successfully!
+2023-01-10/21:54:17		empty columns validated successfully!
+2023-01-10/21:54:17		validation completed!
+2023-01-10/21:54:17		db operation started!
+2023-01-10/21:54:17		table creation started!
+2023-01-10/21:54:18		table created successfully!
+2023-01-10/21:54:18		data insertion into table started!
+2023-01-10/21:54:18		data inserted inside table successfully!
+2023-01-10/21:54:18		data insertion in a input csv file started!
+2023-01-10/21:54:22		data inserted in a input csv file successfully!
+2023-01-10/21:54:22		validation ended
+2023-01-10/21:59:30		validation started!
+2023-01-10/21:59:30		filename validated successfully!
+2023-01-10/21:59:30		column len validated successfully!
+2023-01-10/21:59:31		empty columns validated successfully!
+2023-01-10/21:59:31		validation completed!
+2023-01-10/21:59:31		db operation started!
+2023-01-10/21:59:31		table creation started!
+2023-01-10/21:59:31		table created successfully!
+2023-01-10/21:59:31		data insertion into table started!
+2023-01-10/21:59:31		data inserted inside table successfully!
+2023-01-10/21:59:31		data insertion in a input csv file started!
+2023-01-10/21:59:35		data inserted in a input csv file successfully!
+2023-01-10/21:59:35		validation ended
+2023-01-10/22:01:53		validation started!
+2023-01-10/22:01:53		filename validated successfully!
+2023-01-10/22:01:54		column len validated successfully!
+2023-01-10/22:01:54		empty columns validated successfully!
+2023-01-10/22:01:54		validation completed!
+2023-01-10/22:01:54		db operation started!
+2023-01-10/22:01:54		table creation started!
+2023-01-10/22:01:54		table created successfully!
+2023-01-10/22:01:54		data insertion into table started!
+2023-01-10/22:01:55		data inserted inside table successfully!
+2023-01-10/22:01:55		data insertion in a input csv file started!
+2023-01-10/22:02:01		data inserted in a input csv file successfully!
+2023-01-10/22:02:01		validation ended

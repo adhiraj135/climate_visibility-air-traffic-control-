@@ -913,3 +913,411 @@ Name: label, Length: 10324, dtype: float64
 2023-01-06/22:27:37		model successfully saved.exited the model saving method of fileoperation class
 2023-01-06/22:27:37		model saved successfully!
 2023-01-06/22:27:37		model training successfully!
+2023-01-10/01:23:54		model saving started.entered the model saving method of fileoperation class
+2023-01-10/01:23:54		model successfully saved.exited the model saving method of fileoperation class
+2023-01-10/01:31:02		model saving started.entered the model saving method of fileoperation class
+2023-01-10/01:31:02		model successfully saved.exited the model saving method of fileoperation class
+2023-01-10/01:34:25		model saving started.entered the model saving method of fileoperation class
+2023-01-10/01:34:25		model successfully saved.exited the model saving method of fileoperation class
+2023-01-10/01:34:16		training the model started!
+2023-01-10/01:34:16		data loading started.entered the get data method of data_getter class
+2023-01-10/01:34:16		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/01:34:16		data loaded successfully!
+2023-01-10/01:34:16		entered the remove unnecessary column method of preprocessing class
+2023-01-10/01:34:16		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/01:34:16		unnecessary columns removed successfully!
+2023-01-10/01:34:16		entered the is null present method of preprocessing class
+2023-01-10/01:34:16		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/01:34:16		entered the separate label column method of preprocessing class
+2023-01-10/01:34:16		separating label column successful.exited the separate label column method of preprocessing class
+2023-01-10/01:34:16		label column separated successfully!
+2023-01-10/01:34:16		entered the elbow_plot method of Kmeanclustering class
+2023-01-10/01:34:25		no. of clusters are : 4.Exited the elbow_plot method of Kmeanclustering class
+2023-01-10/01:34:25		Entered the cluster creation method of Kmeanclustering class
+2023-01-10/01:34:25		clustering successful,the cluster creation method of Kmeanclustering class
+2023-01-10/01:34:25		kmean model saved successfully,Exited the cluster creation method of Kmeanclustering class
+2023-01-10/01:34:25		clustering done successfully! and data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              33.0              92.0  ...             29.99         3
+1              33.0              96.0  ...             29.99         3
+2              33.0              96.0  ...             29.99         3
+3              33.0              96.0  ...             29.97         3
+4              33.0              92.0  ...             29.96         3
+...             ...               ...  ...               ...       ...
+75078          76.0              88.0  ...             30.02         2
+75079          69.0             100.0  ...             30.01         3
+75080          71.0              96.0  ...             30.04         3
+75081          72.0              94.0  ...             30.02         3
+75082          72.0              97.0  ...             30.03         3
+
+[75083 rows x 6 columns]
+2023-01-10/01:34:25		clustering done successfully! and data is        DRYBULBTEMPF  RelativeHumidity  ...  clusters  label
+0              33.0              92.0  ...         3    6.0
+1              33.0              96.0  ...         3    6.0
+2              33.0              96.0  ...         3    5.0
+3              33.0              96.0  ...         3    5.0
+4              33.0              92.0  ...         3    5.0
+...             ...               ...  ...       ...    ...
+75078          76.0              88.0  ...         2   10.0
+75079          69.0             100.0  ...         3    4.0
+75080          71.0              96.0  ...         3   10.0
+75081          72.0              94.0  ...         3   10.0
+75082          72.0              97.0  ...         3   10.0
+
+[75083 rows x 7 columns]
+2023-01-10/01:34:25		clustering done successfully! and data is        DRYBULBTEMPF  RelativeHumidity  ...  WindDirection  SeaLevelPressure
+0              33.0              92.0  ...            0.0             29.99
+1              33.0              96.0  ...            0.0             29.99
+2              33.0              96.0  ...            0.0             29.99
+3              33.0              96.0  ...            0.0             29.97
+4              33.0              92.0  ...            0.0             29.96
+...             ...               ...  ...            ...               ...
+74937          68.0             100.0  ...           70.0             29.94
+75079          69.0             100.0  ...           40.0             30.01
+75080          71.0              96.0  ...            0.0             30.04
+75081          72.0              94.0  ...           50.0             30.02
+75082          72.0              97.0  ...            0.0             30.03
+
+[14704 rows x 5 columns]
+2023-01-10/01:34:25		clustering done successfully! and data is 0         6.0
+1         6.0
+2         5.0
+3         5.0
+4         5.0
+         ... 
+74937     6.0
+75079     4.0
+75080    10.0
+75081    10.0
+75082    10.0
+Name: label, Length: 14704, dtype: float64
+2023-01-10/01:34:25		Entered the best model method of model finder class
+2023-01-10/01:34:25		Entered the best param for dt method of model finder class
+2023-01-10/01:53:49		best params are	criterion: squared_error	splitter : best	max_depth: 6	max_features:auto	min_samples_split:10	Exited the best param for dt method of model finder class
+
+2023-01-10/01:53:49		Entered the best param for xgboost method of model finder class
+2023-01-10/01:56:50		best param for xgboost are	learning_rate : 0.1	max_depth : 5	n_estimators : 100	Entered the best param for dt method of model finder class
+
+2023-01-10/01:56:50		best model is : xgboost,Exited the best model method of model finder class
+2023-01-10/01:56:50		best model derived successfully!
+2023-01-10/01:56:50		model saving started.entered the model saving method of fileoperation class
+2023-01-10/01:56:50		model successfully saved.exited the model saving method of fileoperation class
+2023-01-10/01:56:50		model saved successfully!
+2023-01-10/01:56:50		clustering done successfully! and data is        DRYBULBTEMPF  RelativeHumidity  ...  WindDirection  SeaLevelPressure
+7              33.0              96.0  ...          270.0             29.95
+13             39.0              76.0  ...          360.0             29.85
+14             41.0              70.0  ...          360.0             29.84
+15             38.0              79.0  ...          350.0             29.83
+16             39.0              76.0  ...          360.0             29.83
+...             ...               ...  ...            ...               ...
+74863          82.0              34.0  ...          320.0             29.92
+74864          79.0              38.0  ...          330.0             29.94
+74865          78.0              39.0  ...          340.0             29.96
+74866          77.0              40.0  ...          340.0             29.97
+74868          72.0              55.0  ...          360.0             30.00
+
+[24988 rows x 5 columns]
+2023-01-10/01:56:50		clustering done successfully! and data is 7         1.25
+13        9.00
+14        8.00
+15        9.00
+16        8.00
+         ...  
+74863    10.00
+74864    10.00
+74865    10.00
+74866    10.00
+74868    10.00
+Name: label, Length: 24988, dtype: float64
+2023-01-10/01:56:50		Entered the best model method of model finder class
+2023-01-10/01:56:50		Entered the best param for dt method of model finder class
+2023-01-10/02:53:54		best params are	criterion: friedman_mse	splitter : best	max_depth: 4	max_features:auto	min_samples_split:2	Exited the best param for dt method of model finder class
+
+2023-01-10/02:53:54		Entered the best param for xgboost method of model finder class
+2023-01-10/02:57:24		best param for xgboost are	learning_rate : 0.1	max_depth : 3	n_estimators : 100	Entered the best param for dt method of model finder class
+
+2023-01-10/02:57:24		best model is : xgboost,Exited the best model method of model finder class
+2023-01-10/02:57:24		best model derived successfully!
+2023-01-10/02:57:24		model saving started.entered the model saving method of fileoperation class
+2023-01-10/02:57:24		model successfully saved.exited the model saving method of fileoperation class
+2023-01-10/02:57:24		model saved successfully!
+2023-01-10/02:57:24		clustering done successfully! and data is        DRYBULBTEMPF  RelativeHumidity  ...  WindDirection  SeaLevelPressure
+8              34.0              92.0  ...          250.0             29.94
+9              35.0              89.0  ...          250.0             29.93
+10             36.0              89.0  ...          260.0             29.91
+11             37.0              86.0  ...          240.0             29.88
+12             39.0              82.0  ...          230.0             29.85
+...             ...               ...  ...            ...               ...
+75071          81.0              85.0  ...          190.0             30.01
+75073          84.0              74.0  ...          180.0             29.99
+75074          82.0              82.0  ...          180.0             29.99
+75077          78.0              90.0  ...          200.0             29.99
+75078          76.0              88.0  ...          230.0             30.02
+
+[25067 rows x 5 columns]
+2023-01-10/02:57:24		clustering done successfully! and data is 8         2.5
+9         2.5
+10        5.0
+11        5.0
+12        7.0
+         ... 
+75071    10.0
+75073    10.0
+75074    10.0
+75077    10.0
+75078    10.0
+Name: label, Length: 25067, dtype: float64
+2023-01-10/02:57:24		Entered the best model method of model finder class
+2023-01-10/02:57:24		Entered the best param for dt method of model finder class
+2023-01-10/03:50:24		best params are	criterion: squared_error	splitter : random	max_depth: 8	max_features:auto	min_samples_split:14	Exited the best param for dt method of model finder class
+
+2023-01-10/03:50:24		Entered the best param for xgboost method of model finder class
+2023-01-10/03:55:03		best param for xgboost are	learning_rate : 0.1	max_depth : 5	n_estimators : 200	Entered the best param for dt method of model finder class
+
+2023-01-10/03:55:03		best model is : xgboost,Exited the best model method of model finder class
+2023-01-10/03:55:03		best model derived successfully!
+2023-01-10/03:55:03		model saving started.entered the model saving method of fileoperation class
+2023-01-10/03:55:03		model successfully saved.exited the model saving method of fileoperation class
+2023-01-10/03:55:03		model saved successfully!
+2023-01-10/03:55:04		clustering done successfully! and data is        DRYBULBTEMPF  RelativeHumidity  ...  WindDirection  SeaLevelPressure
+320            31.0              69.0  ...           90.0             30.27
+393            40.0              65.0  ...           80.0             30.11
+395            41.0              70.0  ...          100.0             30.04
+396            40.0              77.0  ...           80.0             30.00
+432            42.0              73.0  ...          150.0             29.94
+...             ...               ...  ...            ...               ...
+75035          73.0             100.0  ...          150.0             29.89
+75036          72.0             100.0  ...          160.0             29.86
+75072          85.0              75.0  ...          160.0             30.01
+75075          80.0              85.0  ...          160.0             29.97
+75076          80.0              85.0  ...          160.0             29.96
+
+[10324 rows x 5 columns]
+2023-01-10/03:55:04		clustering done successfully! and data is 320      10.0
+393       9.0
+395       8.0
+396       6.0
+432      10.0
+         ... 
+75035     8.0
+75036    10.0
+75072    10.0
+75075    10.0
+75076    10.0
+Name: label, Length: 10324, dtype: float64
+2023-01-10/03:55:04		Entered the best model method of model finder class
+2023-01-10/03:55:04		Entered the best param for dt method of model finder class
+2023-01-10/04:05:03		best params are	criterion: squared_error	splitter : best	max_depth: 6	max_features:auto	min_samples_split:12	Exited the best param for dt method of model finder class
+
+2023-01-10/04:05:03		Entered the best param for xgboost method of model finder class
+2023-01-10/04:07:15		best param for xgboost are	learning_rate : 0.1	max_depth : 5	n_estimators : 100	Entered the best param for dt method of model finder class
+
+2023-01-10/04:07:15		best model is : xgboost,Exited the best model method of model finder class
+2023-01-10/04:07:15		best model derived successfully!
+2023-01-10/04:07:15		model saving started.entered the model saving method of fileoperation class
+2023-01-10/04:07:15		model successfully saved.exited the model saving method of fileoperation class
+2023-01-10/04:07:15		model saved successfully!
+2023-01-10/04:07:15		model training successfully!
+2023-01-10/04:25:17		model saving started.entered the model saving method of fileoperation class
+2023-01-10/04:25:17		model successfully saved.exited the model saving method of fileoperation class
+2023-01-10/21:59:49		model saving started.entered the model saving method of fileoperation class
+2023-01-10/21:59:49		model successfully saved.exited the model saving method of fileoperation class
+2023-01-10/22:02:09		model saving started.entered the model saving method of fileoperation class
+2023-01-10/22:02:09		model successfully saved.exited the model saving method of fileoperation class
+2023-01-10/22:02:01		training the model started!
+2023-01-10/22:02:01		data loading started.entered the get data method of data_getter class
+2023-01-10/22:02:01		data loaded successfully.exited the get data method of data_getter class
+2023-01-10/22:02:01		data loaded successfully!
+2023-01-10/22:02:01		entered the remove unnecessary column method of preprocessing class
+2023-01-10/22:02:01		removing unnecessary column successful.exited the separate label column method of preprocessing class
+2023-01-10/22:02:01		unnecessary columns removed successfully!
+2023-01-10/22:02:01		entered the is null present method of preprocessing class
+2023-01-10/22:02:01		null columns present : [].exited the is null present method of preprocessing class
+2023-01-10/22:02:01		entered the separate label column method of preprocessing class
+2023-01-10/22:02:01		separating label column successful.exited the separate label column method of preprocessing class
+2023-01-10/22:02:01		label column separated successfully!
+2023-01-10/22:02:01		entered the elbow_plot method of Kmeanclustering class
+2023-01-10/22:02:09		no. of clusters are : 4.Exited the elbow_plot method of Kmeanclustering class
+2023-01-10/22:02:09		Entered the cluster creation method of Kmeanclustering class
+2023-01-10/22:02:09		clustering successful,the cluster creation method of Kmeanclustering class
+2023-01-10/22:02:09		kmean model saved successfully,Exited the cluster creation method of Kmeanclustering class
+2023-01-10/22:02:10		clustering done successfully! and data is        DRYBULBTEMPF  RelativeHumidity  ...  SeaLevelPressure  clusters
+0              33.0              92.0  ...             29.99         3
+1              33.0              96.0  ...             29.99         3
+2              33.0              96.0  ...             29.99         3
+3              33.0              96.0  ...             29.97         3
+4              33.0              92.0  ...             29.96         3
+...             ...               ...  ...               ...       ...
+75078          76.0              88.0  ...             30.02         2
+75079          69.0             100.0  ...             30.01         3
+75080          71.0              96.0  ...             30.04         3
+75081          72.0              94.0  ...             30.02         3
+75082          72.0              97.0  ...             30.03         3
+
+[75083 rows x 6 columns]
+2023-01-10/22:02:10		clustering done successfully! and data is        DRYBULBTEMPF  RelativeHumidity  ...  clusters  label
+0              33.0              92.0  ...         3    6.0
+1              33.0              96.0  ...         3    6.0
+2              33.0              96.0  ...         3    5.0
+3              33.0              96.0  ...         3    5.0
+4              33.0              92.0  ...         3    5.0
+...             ...               ...  ...       ...    ...
+75078          76.0              88.0  ...         2   10.0
+75079          69.0             100.0  ...         3    4.0
+75080          71.0              96.0  ...         3   10.0
+75081          72.0              94.0  ...         3   10.0
+75082          72.0              97.0  ...         3   10.0
+
+[75083 rows x 7 columns]
+2023-01-10/22:02:10		clustering done successfully! and data is        DRYBULBTEMPF  RelativeHumidity  ...  WindDirection  SeaLevelPressure
+0              33.0              92.0  ...            0.0             29.99
+1              33.0              96.0  ...            0.0             29.99
+2              33.0              96.0  ...            0.0             29.99
+3              33.0              96.0  ...            0.0             29.97
+4              33.0              92.0  ...            0.0             29.96
+...             ...               ...  ...            ...               ...
+74937          68.0             100.0  ...           70.0             29.94
+75079          69.0             100.0  ...           40.0             30.01
+75080          71.0              96.0  ...            0.0             30.04
+75081          72.0              94.0  ...           50.0             30.02
+75082          72.0              97.0  ...            0.0             30.03
+
+[14704 rows x 5 columns]
+2023-01-10/22:02:10		clustering done successfully! and data is 0         6.0
+1         6.0
+2         5.0
+3         5.0
+4         5.0
+         ... 
+74937     6.0
+75079     4.0
+75080    10.0
+75081    10.0
+75082    10.0
+Name: label, Length: 14704, dtype: float64
+2023-01-10/22:02:10		Entered the best model method of model finder class
+2023-01-10/22:02:10		Entered the best param for dt method of model finder class
+2023-01-10/22:23:27		best params are	criterion: squared_error	splitter : best	max_depth: 6	max_features:auto	min_samples_split:10	Exited the best param for dt method of model finder class
+
+2023-01-10/22:23:27		Entered the best param for xgboost method of model finder class
+2023-01-10/22:26:34		best param for xgboost are	learning_rate : 0.1	max_depth : 5	n_estimators : 100	Entered the best param for dt method of model finder class
+
+2023-01-10/22:26:34		best model is : xgboost,Exited the best model method of model finder class
+2023-01-10/22:26:34		best model derived successfully!
+2023-01-10/22:26:34		model saving started.entered the model saving method of fileoperation class
+2023-01-10/22:26:34		model successfully saved.exited the model saving method of fileoperation class
+2023-01-10/22:26:34		model saved successfully!
+2023-01-10/22:26:34		clustering done successfully! and data is        DRYBULBTEMPF  RelativeHumidity  ...  WindDirection  SeaLevelPressure
+7              33.0              96.0  ...          270.0             29.95
+13             39.0              76.0  ...          360.0             29.85
+14             41.0              70.0  ...          360.0             29.84
+15             38.0              79.0  ...          350.0             29.83
+16             39.0              76.0  ...          360.0             29.83
+...             ...               ...  ...            ...               ...
+74863          82.0              34.0  ...          320.0             29.92
+74864          79.0              38.0  ...          330.0             29.94
+74865          78.0              39.0  ...          340.0             29.96
+74866          77.0              40.0  ...          340.0             29.97
+74868          72.0              55.0  ...          360.0             30.00
+
+[24988 rows x 5 columns]
+2023-01-10/22:26:34		clustering done successfully! and data is 7         1.25
+13        9.00
+14        8.00
+15        9.00
+16        8.00
+         ...  
+74863    10.00
+74864    10.00
+74865    10.00
+74866    10.00
+74868    10.00
+Name: label, Length: 24988, dtype: float64
+2023-01-10/22:26:34		Entered the best model method of model finder class
+2023-01-10/22:26:34		Entered the best param for dt method of model finder class
+2023-01-10/23:27:14		best params are	criterion: squared_error	splitter : best	max_depth: 4	max_features:auto	min_samples_split:2	Exited the best param for dt method of model finder class
+
+2023-01-10/23:27:14		Entered the best param for xgboost method of model finder class
+2023-01-10/23:30:48		best param for xgboost are	learning_rate : 0.1	max_depth : 3	n_estimators : 100	Entered the best param for dt method of model finder class
+
+2023-01-10/23:30:48		best model is : xgboost,Exited the best model method of model finder class
+2023-01-10/23:30:48		best model derived successfully!
+2023-01-10/23:30:48		model saving started.entered the model saving method of fileoperation class
+2023-01-10/23:30:48		model successfully saved.exited the model saving method of fileoperation class
+2023-01-10/23:30:48		model saved successfully!
+2023-01-10/23:30:49		clustering done successfully! and data is        DRYBULBTEMPF  RelativeHumidity  ...  WindDirection  SeaLevelPressure
+8              34.0              92.0  ...          250.0             29.94
+9              35.0              89.0  ...          250.0             29.93
+10             36.0              89.0  ...          260.0             29.91
+11             37.0              86.0  ...          240.0             29.88
+12             39.0              82.0  ...          230.0             29.85
+...             ...               ...  ...            ...               ...
+75071          81.0              85.0  ...          190.0             30.01
+75073          84.0              74.0  ...          180.0             29.99
+75074          82.0              82.0  ...          180.0             29.99
+75077          78.0              90.0  ...          200.0             29.99
+75078          76.0              88.0  ...          230.0             30.02
+
+[25067 rows x 5 columns]
+2023-01-10/23:30:49		clustering done successfully! and data is 8         2.5
+9         2.5
+10        5.0
+11        5.0
+12        7.0
+         ... 
+75071    10.0
+75073    10.0
+75074    10.0
+75077    10.0
+75078    10.0
+Name: label, Length: 25067, dtype: float64
+2023-01-10/23:30:49		Entered the best model method of model finder class
+2023-01-10/23:30:49		Entered the best param for dt method of model finder class
+2023-01-11/00:23:36		best params are	criterion: poisson	splitter : best	max_depth: 6	max_features:auto	min_samples_split:4	Exited the best param for dt method of model finder class
+
+2023-01-11/00:23:36		Entered the best param for xgboost method of model finder class
+2023-01-11/00:27:54		best param for xgboost are	learning_rate : 0.1	max_depth : 5	n_estimators : 200	Entered the best param for dt method of model finder class
+
+2023-01-11/00:27:54		best model is : xgboost,Exited the best model method of model finder class
+2023-01-11/00:27:54		best model derived successfully!
+2023-01-11/00:27:54		model saving started.entered the model saving method of fileoperation class
+2023-01-11/00:27:54		model successfully saved.exited the model saving method of fileoperation class
+2023-01-11/00:27:54		model saved successfully!
+2023-01-11/00:27:55		clustering done successfully! and data is        DRYBULBTEMPF  RelativeHumidity  ...  WindDirection  SeaLevelPressure
+320            31.0              69.0  ...           90.0             30.27
+393            40.0              65.0  ...           80.0             30.11
+395            41.0              70.0  ...          100.0             30.04
+396            40.0              77.0  ...           80.0             30.00
+432            42.0              73.0  ...          150.0             29.94
+...             ...               ...  ...            ...               ...
+75035          73.0             100.0  ...          150.0             29.89
+75036          72.0             100.0  ...          160.0             29.86
+75072          85.0              75.0  ...          160.0             30.01
+75075          80.0              85.0  ...          160.0             29.97
+75076          80.0              85.0  ...          160.0             29.96
+
+[10324 rows x 5 columns]
+2023-01-11/00:27:55		clustering done successfully! and data is 320      10.0
+393       9.0
+395       8.0
+396       6.0
+432      10.0
+         ... 
+75035     8.0
+75036    10.0
+75072    10.0
+75075    10.0
+75076    10.0
+Name: label, Length: 10324, dtype: float64
+2023-01-11/00:27:55		Entered the best model method of model finder class
+2023-01-11/00:27:55		Entered the best param for dt method of model finder class
+2023-01-11/00:37:22		best params are	criterion: squared_error	splitter : best	max_depth: 6	max_features:auto	min_samples_split:12	Exited the best param for dt method of model finder class
+
+2023-01-11/00:37:22		Entered the best param for xgboost method of model finder class
+2023-01-11/00:39:29		best param for xgboost are	learning_rate : 0.1	max_depth : 5	n_estimators : 100	Entered the best param for dt method of model finder class
+
+2023-01-11/00:39:29		best model is : xgboost,Exited the best model method of model finder class
+2023-01-11/00:39:29		best model derived successfully!
+2023-01-11/00:39:29		model saving started.entered the model saving method of fileoperation class
+2023-01-11/00:39:29		model successfully saved.exited the model saving method of fileoperation class
+2023-01-11/00:39:29		model saved successfully!
+2023-01-11/00:39:29		model training successfully!

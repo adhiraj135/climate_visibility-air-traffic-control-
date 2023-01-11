@@ -4,7 +4,7 @@ from Training_database_connection.training_database_insertion import dboperation
 from app_logging.logger import logger
 
 
-class data_validatation_and_transformation:
+class training_data_validatation_and_transformation:
 
     def __init__(self,path):
         self.raw_data=raw_data_validation(path)
@@ -13,7 +13,7 @@ class data_validatation_and_transformation:
         self.file_object = open("training_logs/training_main_log.txt", "a+")
 
 
-    def validate_and_transform(self):
+    def training_validate_and_transform(self):
 
 
         try:

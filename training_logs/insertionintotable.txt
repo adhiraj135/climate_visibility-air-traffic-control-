@@ -4,3 +4,7 @@
 2023-01-02/02:34:01		data sucessfully inserted in table
 2023-01-05/23:42:18		data sucessfully inserted in table
 2023-01-06/03:11:16		data already present in table,no need to insert
+2023-01-10/21:19:57		data already present in table,no need to insert
+2023-01-10/21:54:18		data already present in table,no need to insert
+2023-01-10/21:59:31		data already present in table,no need to insert
+2023-01-10/22:01:55		data already present in table,no need to insert
