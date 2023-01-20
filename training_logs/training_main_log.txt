@@ -84,3 +84,68 @@
 2023-01-10/22:01:55		data insertion in a input csv file started!
 2023-01-10/22:02:01		data inserted in a input csv file successfully!
 2023-01-10/22:02:01		validation ended
+2023-01-11/03:13:06		validation started!
+2023-01-11/03:13:07		filename validated successfully!
+2023-01-11/03:13:07		column len validated successfully!
+2023-01-11/03:13:08		empty columns validated successfully!
+2023-01-11/03:13:08		validation completed!
+2023-01-11/03:13:08		db operation started!
+2023-01-11/03:13:08		table creation started!
+2023-01-11/03:13:08		table created successfully!
+2023-01-11/03:13:08		data insertion into table started!
+2023-01-11/03:13:09		data inserted inside table successfully!
+2023-01-11/03:13:09		data insertion in a input csv file started!
+2023-01-11/03:13:13		data inserted in a input csv file successfully!
+2023-01-11/03:13:13		validation ended
+2023-01-11/03:14:27		validation started!
+2023-01-11/03:14:27		filename validated successfully!
+2023-01-11/03:14:27		column len validated successfully!
+2023-01-11/03:14:28		empty columns validated successfully!
+2023-01-11/03:14:28		validation completed!
+2023-01-11/03:14:28		db operation started!
+2023-01-11/03:14:28		table creation started!
+2023-01-11/03:14:28		table created successfully!
+2023-01-11/03:14:28		data insertion into table started!
+2023-01-11/03:14:29		data inserted inside table successfully!
+2023-01-11/03:14:29		data insertion in a input csv file started!
+2023-01-11/03:14:33		data inserted in a input csv file successfully!
+2023-01-11/03:14:33		validation ended
+2023-01-11/03:15:28		validation started!
+2023-01-11/03:15:28		filename validated successfully!
+2023-01-11/03:15:29		column len validated successfully!
+2023-01-11/03:15:29		empty columns validated successfully!
+2023-01-11/03:15:29		validation completed!
+2023-01-11/03:15:29		db operation started!
+2023-01-11/03:15:29		table creation started!
+2023-01-11/03:15:30		table created successfully!
+2023-01-11/03:15:30		data insertion into table started!
+2023-01-11/03:15:30		data inserted inside table successfully!
+2023-01-11/03:15:30		data insertion in a input csv file started!
+2023-01-11/03:15:34		data inserted in a input csv file successfully!
+2023-01-11/03:15:34		validation ended
+2023-01-11/03:18:48		validation started!
+2023-01-11/03:18:48		filename validated successfully!
+2023-01-11/03:18:49		column len validated successfully!
+2023-01-11/03:18:49		empty columns validated successfully!
+2023-01-11/03:18:49		validation completed!
+2023-01-11/03:18:49		db operation started!
+2023-01-11/03:18:49		table creation started!
+2023-01-11/03:18:49		table created successfully!
+2023-01-11/03:18:49		data insertion into table started!
+2023-01-11/03:18:50		data inserted inside table successfully!
+2023-01-11/03:18:50		data insertion in a input csv file started!
+2023-01-11/03:18:54		data inserted in a input csv file successfully!
+2023-01-11/03:18:54		validation ended
+2023-01-11/03:20:09		validation started!
+2023-01-11/03:20:09		filename validated successfully!
+2023-01-11/03:20:10		column len validated successfully!
+2023-01-11/03:20:10		empty columns validated successfully!
+2023-01-11/03:20:10		validation completed!
+2023-01-11/03:20:10		db operation started!
+2023-01-11/03:20:10		table creation started!
+2023-01-11/03:20:11		table created successfully!
+2023-01-11/03:20:11		data insertion into table started!
+2023-01-11/03:20:11		data inserted inside table successfully!
+2023-01-11/03:20:11		data insertion in a input csv file started!
+2023-01-11/03:20:15		data inserted in a input csv file successfully!
+2023-01-11/03:20:15		validation ended

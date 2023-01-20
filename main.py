@@ -25,7 +25,9 @@ def predict():
     try:
         if request.form is not None:
            path = request.form
+           print(path)
            Prediction_path=path[list(path.keys())[0]]
+           print(Prediction_path)
 
            pred_val = prediction_data_validatation_and_transformation(Prediction_path)
 
@@ -63,12 +65,16 @@ def train():
     try:
         if request.form is not None:
             path = request.form
+            path=request.form.values()
+
             training_path=path[list(path.keys())[0]]
 
             train_val = training_data_validatation_and_transformation(training_path)
+
             train_val.training_validate_and_transform()
 
-            train=training_model()
+            train = training_model()
+
             train.training_model()
 
         if request.json is not None:

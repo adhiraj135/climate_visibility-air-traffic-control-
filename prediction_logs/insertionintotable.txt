@@ -42,3 +42,7 @@
 2023-01-10/21:50:53		data already present in table,no need to insert
 2023-01-10/21:53:37		data already present in table,no need to insert
 2023-01-11/00:46:24		data already present in table,no need to insert
+2023-01-11/03:11:43		data already present in table,no need to insert
+2023-01-11/22:03:55		data already present in table,no need to insert
+2023-01-11/22:09:35		data already present in table,no need to insert
+2023-01-11/22:24:28		data already present in table,no need to insert

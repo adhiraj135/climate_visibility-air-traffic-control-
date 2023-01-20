@@ -129,3 +129,18 @@
 2023-01-10/22:01:54		empty columns validation started
 2023-01-10/22:01:54		invalid file file moved to bad dir :: visibility_08012018_120065.csv
 2023-01-10/22:01:54		empty columns sucessfully validated and default file moved to bad dir
+2023-01-11/03:13:07		empty columns validation started
+2023-01-11/03:13:08		invalid file file moved to bad dir :: visibility_08012018_120065.csv
+2023-01-11/03:13:08		empty columns sucessfully validated and default file moved to bad dir
+2023-01-11/03:14:27		empty columns validation started
+2023-01-11/03:14:28		invalid file file moved to bad dir :: visibility_08012018_120065.csv
+2023-01-11/03:14:28		empty columns sucessfully validated and default file moved to bad dir
+2023-01-11/03:15:29		empty columns validation started
+2023-01-11/03:15:29		invalid file file moved to bad dir :: visibility_08012018_120065.csv
+2023-01-11/03:15:29		empty columns sucessfully validated and default file moved to bad dir
+2023-01-11/03:18:49		empty columns validation started
+2023-01-11/03:18:49		invalid file file moved to bad dir :: visibility_08012018_120065.csv
+2023-01-11/03:18:49		empty columns sucessfully validated and default file moved to bad dir
+2023-01-11/03:20:10		empty columns validation started
+2023-01-11/03:20:10		invalid file file moved to bad dir :: visibility_08012018_120065.csv
+2023-01-11/03:20:10		empty columns sucessfully validated and default file moved to bad dir

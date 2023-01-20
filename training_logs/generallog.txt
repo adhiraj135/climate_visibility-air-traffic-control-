@@ -136,3 +136,16 @@
 2023-01-10/21:54:16		existing good and bad training dir created
 2023-01-10/21:59:30		existing good and bad training dir created
 2023-01-10/22:01:53		existing good and bad training dir created
+2023-01-11/03:13:06		existing bad training dir removed
+2023-01-11/03:13:06		existing good training dir removed
+2023-01-11/03:13:06		existing good and bad training dir created
+2023-01-11/03:14:27		existing bad training dir removed
+2023-01-11/03:14:27		existing good training dir removed
+2023-01-11/03:14:27		existing good and bad training dir created
+2023-01-11/03:15:28		existing bad training dir removed
+2023-01-11/03:15:28		existing good training dir removed
+2023-01-11/03:15:28		existing good and bad training dir created
+2023-01-11/03:18:48		existing bad training dir removed
+2023-01-11/03:18:48		existing good training dir removed
+2023-01-11/03:18:48		existing good and bad training dir created
+2023-01-11/03:20:09		existing good and bad training dir created

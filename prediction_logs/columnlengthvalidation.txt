@@ -145,3 +145,15 @@
 2023-01-11/00:46:13		column len validation started
 2023-01-11/00:46:15		Invalid column length in csv file !! batch file transferred to bad dir :: visibility_08012019_120066.csv
 2023-01-11/00:46:15		column len succesfully validated and default files moved to bad directory
+2023-01-11/03:11:42		column len validation started
+2023-01-11/03:11:42		Invalid column length in csv file !! batch file transferred to bad dir :: visibility_08012019_120066.csv
+2023-01-11/03:11:42		column len succesfully validated and default files moved to bad directory
+2023-01-11/22:03:53		column len validation started
+2023-01-11/22:03:53		Invalid column length in csv file !! batch file transferred to bad dir :: visibility_08012019_120066.csv
+2023-01-11/22:03:53		column len succesfully validated and default files moved to bad directory
+2023-01-11/22:09:34		column len validation started
+2023-01-11/22:09:34		Invalid column length in csv file !! batch file transferred to bad dir :: visibility_08012019_120066.csv
+2023-01-11/22:09:34		column len succesfully validated and default files moved to bad directory
+2023-01-11/22:24:27		column len validation started
+2023-01-11/22:24:27		Invalid column length in csv file !! batch file transferred to bad dir :: visibility_08012019_120066.csv
+2023-01-11/22:24:27		column len succesfully validated and default files moved to bad directory
