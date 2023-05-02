@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ClimateVisibilityApp'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_79B6DEB640D6497FA4F62200D619717C }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_67EACE6B6966464FA1DDB9DAB7D7A427 }}
