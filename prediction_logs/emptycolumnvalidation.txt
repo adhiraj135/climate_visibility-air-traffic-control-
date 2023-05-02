@@ -104,3 +104,5 @@
 2023-01-11/22:09:34		error in emptycolumnvalidation : 'str' object has no attribute 'write'
 2023-01-11/22:24:27		empty columns validation started
 2023-01-11/22:24:27		error in emptycolumnvalidation : 'str' object has no attribute 'write'
+2023-05-01/22:03:08		empty columns validation started
+2023-05-01/22:03:08		error in emptycolumnvalidation : 'str' object has no attribute 'write'
